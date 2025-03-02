@@ -1,0 +1,9 @@
+{
+  "must_accept": false,
+  "has_addons": false,
+  "has_scripts": false,
+  "force_server_packs": false,
+  "behaviour_packs": [],
+  "texture_packs": [],
+  "resource_pack_links": []
+}
