@@ -2,8 +2,8 @@ const fs = require('fs')
 const nbt = require('prismarine-nbt')
 const strip = k => k.replace('minecraft:', '').split('[')[0]
 
-module.exports = (version, outputPath) => {
-  const biomes = nbt.simplify(require(`${outputPath}/packets/biome_definition_list.json`).nbt)
+module.exports = (version, outputPath, dataDir) => {
+  const biomes = nbt.simplify(require(`${dataDir}/packets/biome_definition_list.json`).nbt)
   // console.log('Biomes', biomes)
 
   const bedrockBiomeIds = require(`${outputPath}/biome/Biomes.json`)
@@ -11,8 +11,15 @@ module.exports = (version, outputPath) => {
   const bedrock2Java = require(`${outputPath}/biome/Bedrock2Java.json`)
   
   const mcData = require('./deps/minecraft-data/data/dataPaths.json')
-  const [[latestVer, latest]] = Object.entries(mcData.pc).slice(-1)
+
+  let [[latestVer, latest]] = Object.entries(mcData.pc).slice(-1)
   console.log('latest', latestVer, latest)
+
+  const current = Object.entries(mcData.pc).find(x=>x[0] == version || x[0] == version.replace('.0', ''))
+  if (current){
+    latestVer = current[0];
+    latest = current[1];
+  }
   const javaBiomes = require(`./deps/minecraft-data/data/${'pc/1.16.2' || latest.blocks}/biomes.json`)
 
   const javaBiomeMapped = {}

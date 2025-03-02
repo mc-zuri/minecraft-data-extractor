@@ -9,11 +9,17 @@ const titleCase = (str) => str.replace(/\b\S/g, t => t.toUpperCase())
 module.exports = async (version, outputPath) => {
   // Load the bedrock block states and mappings
   const mcData = require('./deps/minecraft-data/data/dataPaths.json')
-  const bedrockBlockStates = require(`./${outputPath}/blocks/BlockStates.json`)
-  const java2Bedrock = require(`./${outputPath}/blocks/Java2Bedrock.json`)
-  const bedrock2Java = require(`./${outputPath}/blocks/Bedrock2Java.json`)
-  const [[latestVer, latest]] = Object.entries(mcData.pc).slice(-1)
+  const bedrockBlockStates = require(`${outputPath}/blocks/BlockStates.json`)
+  const java2Bedrock = require(`${outputPath}/blocks/Java2Bedrock.json`)
+  const bedrock2Java = require(`${outputPath}/blocks/Bedrock2Java.json`)
+  let [[latestVer, latest]] = Object.entries(mcData.pc).slice(-1)
   console.log('latest', latestVer, latest)
+
+  const current = Object.entries(mcData.pc).find(x=>x[0] == version || x[0] == version.replace('.0', ''))
+  if (current){
+    latestVer = current[0];
+    latest = current[1];
+  }
 
   const javaBlocks = require(`./deps/minecraft-data/data/${latest.blocks}/blocks.json`)
 

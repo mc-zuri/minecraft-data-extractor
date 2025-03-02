@@ -50,9 +50,9 @@ function flatten(input) {
   return [ing2, result];
 }
 
-module.exports = (version, outputPath) => {
-  const craftingData = require(`${outputPath}/packets/crafting_data.json`)
-  const itemstates = require(`${outputPath}/packets/start_game.json`).itemstates
+module.exports = (version, outputPath, dataDir) => {
+  const craftingData = require(`${dataDir}/packets/crafting_data.json`)
+  const itemstates = require(`${dataDir}/packets/start_game.json`).itemstates
   const uniqueTypes = new Set()
 
   let itemRuntimeId2String = {};
@@ -121,7 +121,12 @@ module.exports = (version, outputPath) => {
         output: recipe.recipe.output.map(makeOutputItem),
         priority: recipe.recipe.priority
       })
-    } else {
+    } else if (recipe.type === 'smithing_trim') {
+
+    }  else if (recipe.type === 'smithing_transform') {
+
+    } 
+    else {
       throw Error(recipe.type + ' is not support')
     }
   }

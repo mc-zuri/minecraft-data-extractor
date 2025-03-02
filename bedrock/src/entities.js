@@ -142,9 +142,15 @@ const strip = k => k?.replace('minecraft:', '').split('[')[0]
 
 module.exports = (version, outputPath) => {
   const mcData = require('./deps/minecraft-data/data/dataPaths.json')
-  const [[latestVer, latest]] = Object.entries(mcData.pc).slice(-1)
+  let [[latestVer, latest]] = Object.entries(mcData.pc).slice(-1)
   console.log('latest', latestVer, latest)
-  const javaEntites = require(`./deps/minecraft-data/data/${latest.blocks}/entities.json`)
+
+  const current = Object.entries(mcData.pc).find(x=>x[0] == version || x[0] == version.replace('.0', ''))
+  if (current){
+    latestVer = current[0];
+    latest = current[1];
+  }
+  const javaEntites = require(`./deps/minecraft-data/data/${latest.entities}/entities.json`)
   const javaMap = {}
   for (const javaEntity of javaEntites) {
     javaMap[javaEntity.name] = javaEntity

@@ -18,3 +18,31 @@
 [submodule "java/burger-extractor"]
 	path = java/burger-extractor
 	url = https://github.com/extremeheat/burger-extractor.git
+[submodule "bedrock/src/deps/minecraft-data"]
+	path = bedrock/src/deps/minecraft-data
+	url = https://github.com/PrismarineJS/minecraft-data
+	branch = master
+[submodule "bedrock/src/deps/PyMCTCompiler"]
+	path = bedrock/src/deps/PyMCTCompiler
+	url = https://github.com/gentlegiantJGC/PyMCTCompiler
+	branch = master
+[submodule "bedrock/src/deps/PyMCTranslate"]
+	path = bedrock/src/deps/PyMCTranslate
+	url = https://github.com/gentlegiantJGC/PyMCTranslate
+	branch = master
+[submodule "bedrock/src/deps/BedrockData"]
+	path = bedrock/src/deps/BedrockData
+	url = https://github.com/pmmp/BedrockData
+	branch = master
+[submodule "bedrock/src/deps/mappings"]
+	path = bedrock/src/deps/mappings
+	url = https://github.com/GeyserMC/mappings
+	branch = master
+[submodule "bedrock/src/deps/mappings-generator"]
+	path = bedrock/src/deps/mappings-generator
+	url = https://github.com/GeyserMC/mappings-generator
+	branch = master
+[submodule "bedrock/src/deps/BedrockBlockPaletteArchive"]
+	path = bedrock/src/deps/BedrockBlockPaletteArchive
+	url = https://github.com/pmmp/BedrockBlockPaletteArchive
+	branch = master

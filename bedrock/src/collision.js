@@ -15,7 +15,7 @@ const sequential = data => {
 }
 
 module.exports = async (version, outputPath) => {
-  if(fs.existsSync('./deps/mappings/collisions.nbt')){
+  if(fs.existsSync('./src/deps/mappings/collisions.nbt')){
     return await createCollosionDataV2(version, outputPath);
   }
 
@@ -118,11 +118,11 @@ module.exports = async (version, outputPath) => {
 }
 
 async function createCollosionDataV2(version, outputPath){
-  const BSS = require('./output/blocks/BSS.json')
-  const blocksJSON = require('./output/blocks.json')
-  const Java2Bedrock = require('./output/blocks/Java2Bedrock.json')
+  const BSS = require(outputPath + '/blocks/BSS.json')
+  const blocksJSON = require(outputPath + '/blocks.json')
+  const Java2Bedrock = require(outputPath + '/blocks/Java2Bedrock.json')
 
-  const collisionsData =fs.readFileSync(`./deps/mappings/collisions.nbt`);
+  const collisionsData =fs.readFileSync(`./src/deps/mappings/collisions.nbt`);
   const collisionsNbt = await nbt.parse(collisionsData);
   const collisionsJSON = nbt.simplify(collisionsNbt.parsed);
 

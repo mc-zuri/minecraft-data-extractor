@@ -5,20 +5,36 @@ const assert = require('assert')
 const strip = k => k?.replace('minecraft:', '').split('[')[0]
 const titleCase = (str) => str.replace(/\b\S/g, t => t.toUpperCase())
 
-module.exports = async (version, outputPath) => {
+module.exports = async (version, outputPath, dataDir) => {
   const mcData = require('./deps/minecraft-data/data/dataPaths.json')
   const bedrockBlockStates = require(`${outputPath}/blocks/BlockStates.json`)
   const java2Bedrock = require(`${outputPath}/items/Java2Bedrock.json`)
   const bedrock2Java = require(`${outputPath}/items/Bedrock2Java.json`)
 
-  const [[latestVer, latest]] = Object.entries(mcData.pc).slice(-1)
-  console.log('latest', latestVer, latest)
+  const entries = Object.entries(mcData.pc);
+  let [[dataPathVer, dataPath]] = Object.entries(mcData.pc).slice(-1)
+  console.log('latest', dataPathVer, dataPath)
+  const current = entries.find(x=>x[0] == version || x[0] == version.replace('.0', ''))
+  if (current){
+    dataPathVer = current[0];
+    dataPath = current[1];
+  }
+  const javaItems = require(`./deps/minecraft-data/data/${dataPath.blocks}/items.json`)
+  const itemstates = require(`${dataDir}/packets/start_game.json`).itemstates
 
-  const javaItems = require(`./deps/minecraft-data/data/${latest.blocks}/items.json`)
 
-  const itemstates = require(`${outputPath}/packets/start_game.json`).itemstates
+  // verify
+  const mappingsItemsObj = require('./deps/mappings/items.json')
+  const mappingsItems = Object.entries(mappingsItemsObj);
 
-  console.log(bedrock2Java)
+  for(let i = 0; i < mappingsItems.length; i++){
+    if(mappingsItems[i][0] !== `minecraft:${javaItems[i].name}`){
+      console.log('mismatch', i , mappingsItems[i][0], javaItems[i].name)
+      continue;
+    }
+  }
+
+
 
   // Some items are bedrock exclusive and cannot be found in the Java Edition item palette, so we assign our own ID starting
   // at 9000 to not conflict
@@ -94,4 +110,6 @@ module.exports = async (version, outputPath) => {
   fs.writeFileSync(outputPath + '/minecraft-data/items.json', JSON.stringify(ret, null, 2))
 }
 
-if (!module.parent) module.exports(null, process.argv[2] || './output')
+if (!module.parent){
+  module.exports(null, process.argv[2] || './output')
+}

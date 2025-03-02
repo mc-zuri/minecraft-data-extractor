@@ -8,12 +8,12 @@ const d = ([path]) => join(__dirname, 'deps', path)
 const strip = k => k?.replace('minecraft:', '').split('[')[0]
 
 class ItemMapper {
-  constructor(version, outDir) {
+  constructor(version, outDir, dataDir) {
     this.j2b = {}
     this.b2j = {}
 
     try {
-      this.packet = require(`${outDir}/packets/start_game.json`)
+      this.packet = require(`${dataDir}/packets/start_game.json`)
     } catch (e) {
       console.log(e)
       throw Error('You need to dump the packets first, please see the README.md file')
@@ -58,8 +58,8 @@ class ItemMapper {
   }
 }
 
-module.exports = async (version, path) => {
-  let builder = new ItemMapper(version, path)
+module.exports = async (version, path, dataDir) => {
+  let builder = new ItemMapper(version, path, dataDir)
   await builder.build()
   console.log('✔ ok ->', path)
 }
