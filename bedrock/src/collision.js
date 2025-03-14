@@ -15,12 +15,12 @@ const sequential = data => {
 }
 
 module.exports = async (version, outputPath) => {
-  if(fs.existsSync('./src/deps/mappings/collisions.nbt')){
+  if(fs.existsSync('./src/deps/mappings-generator/mappings/collisions.nbt')){
     return await createCollosionDataV2(version, outputPath);
   }
 
-  const geyserMappings = require('./deps/mappings/blocks.json')
-  const collisions = require('./deps/mappings/collision.json')
+  const geyserMappings = require('./deps/mappings-generator/mappings/blocks.json')
+  const collisions = require('./deps/mappings-generator/mappings/collision.json')
   const bedrockBlockStates = require(`./${outputPath}/blocks/BlockStates.json`)
 
   const buildBSS = states => {
@@ -122,7 +122,7 @@ async function createCollosionDataV2(version, outputPath){
   const blocksJSON = require(outputPath + '/blocks.json')
   const Java2Bedrock = require(outputPath + '/blocks/Java2Bedrock.json')
 
-  const collisionsData =fs.readFileSync(`./src/deps/mappings/collisions.nbt`);
+  const collisionsData =fs.readFileSync(`./src/deps/mappings-generator/mappings/collisions.nbt`);
   const collisionsNbt = await nbt.parse(collisionsData);
   const collisionsJSON = nbt.simplify(collisionsNbt.parsed);
 
@@ -137,7 +137,8 @@ async function createCollosionDataV2(version, outputPath){
     const bedrockStateName = bedrock_block_states[bedrockBlockIndex];
     const index = BSS[jss2bss(bedrockStateName)]
     if(index == null){
-      throw new Error('not found bedrock block state id')
+      //throw new Error('not found bedrock block state id')
+      console.error('not found bedrock block state id', bedrockStateName)
     }
     bedrockBlockStateId_2_collisionIndex[index]= bedrockBlockIndex;
   }

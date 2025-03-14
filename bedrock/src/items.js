@@ -14,7 +14,7 @@ module.exports = async (version, outputPath, dataDir) => {
   const entries = Object.entries(mcData.pc);
   let [[dataPathVer, dataPath]] = Object.entries(mcData.pc).slice(-1)
   console.log('latest', dataPathVer, dataPath)
-  const current = entries.find(x=>x[0] == '1.21.1')
+  const current = entries.find(x=>x[0] == '1.21.3')
   if (current){
     dataPathVer = current[0];
     dataPath = current[1];
@@ -24,7 +24,7 @@ module.exports = async (version, outputPath, dataDir) => {
 
 
   // verify
-  const mappingsItemsObj = require('./deps/mappings/items.json')
+  const mappingsItemsObj = require('./deps/mappings-generator/mappings/items.json')
   const mappingsItems = Object.entries(mappingsItemsObj);
 
   for(let i = 0; i < mappingsItems.length; i++){
@@ -34,7 +34,7 @@ module.exports = async (version, outputPath, dataDir) => {
     }
   }
 
-
+ 
 
   // Some items are bedrock exclusive and cannot be found in the Java Edition item palette, so we assign our own ID starting
   // at 9000 to not conflict

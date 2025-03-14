@@ -3,6 +3,7 @@ const nbt = require('prismarine-nbt')
 const extras = require('./extraMappings')
 const { join } = require('path')
 const assert = require('assert')
+const stringify = require("json-stringify-pretty-compact")
 
 const d = ([path]) => join(__dirname, 'deps', path)
 
@@ -142,7 +143,7 @@ class BlockMapper {
   }
 
   async getBlockStatesGeyser() {
-    const data = fs.readFileSync(d`./mappings-generator/palettes/blockpalette.nbt`)
+    const data = fs.readFileSync(d`./mappings-generator/palettes/block_palette.nbt`)
 
     const { parsed } = await nbt.parse(data)
 
@@ -183,7 +184,7 @@ class BlockMapper {
 
     // * Build Java BSS to Bedrock BSS map
     {
-      this.buildJ2B(d`./mappings/blocks.json`) // Geyser mappings
+      this.buildJ2B(d`./mappings-generator/mappings/blocks.json`) // Geyser mappings
       fs.writeFileSync(od + '/blocks/Java2Bedrock.json', JSON.stringify(this.j2b, null, 2))
       fs.writeFileSync(od + '/minecraft-data/blocksJ2B.json', JSON.stringify(this.j2b, null, 2))
       // console.log('j2b', this.j2b)
@@ -201,9 +202,9 @@ class BlockMapper {
     {
       this.buildBRID(states)
       // console.log(this.brid2bs)
-      fs.writeFileSync(od + '/blocks/BRID.json', JSON.stringify(this.brid2bs))
+      fs.writeFileSync(od + '/blocks/BRID.json',  stringify(this.brid2bs, { indent: '\t', maxLength: 19999 }))
       // console.log(this.bs2brid)
-      fs.writeFileSync(od + '/blocks/BSS.json', JSON.stringify(this.bs2brid))
+      fs.writeFileSync(od + '/blocks/BSS.json', stringify(this.bs2brid, { indent: '\t', maxLength: 19999 }) )
     }
 
     // * Map Java BSS to Java Runtime IDs for convenience

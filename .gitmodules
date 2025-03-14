@@ -34,10 +34,6 @@
 	path = bedrock/src/deps/BedrockData
 	url = https://github.com/pmmp/BedrockData
 	branch = master
-[submodule "bedrock/src/deps/mappings"]
-	path = bedrock/src/deps/mappings
-	url = https://github.com/GeyserMC/mappings
-	branch = master
 [submodule "bedrock/src/deps/mappings-generator"]
 	path = bedrock/src/deps/mappings-generator
 	url = https://github.com/GeyserMC/mappings-generator

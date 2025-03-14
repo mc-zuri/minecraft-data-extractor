@@ -29,7 +29,7 @@ class ItemMapper {
   }
 
   buildJ2B() {
-    const map = require(d`mappings/items.json`)
+    const map = require(d`mappings-generator/mappings/items.json`)
     for (const javaItemName in map) {
       const bedrockItem = map[javaItemName]
       const mapped = this.itemstates[bedrockItem.bedrock_identifier]
