@@ -54,7 +54,9 @@ module.exports = async (version, outputPath) => {
           break
         }
       }
-      if (!found) throw Error(`unfound ${name} ${javaName}`)
+      if (!found){
+        throw Error(`unfound ${name} ${javaName}`)
+      }
     }
 
   }
