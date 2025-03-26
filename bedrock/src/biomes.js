@@ -15,7 +15,7 @@ module.exports = (version, outputPath, dataDir) => {
   let [[latestVer, latest]] = Object.entries(mcData.pc).slice(-1)
   console.log('latest', latestVer, latest)
 
-  const current = Object.entries(mcData.pc).find(x=>x[0] == '1.21.4')
+  const current = Object.entries(mcData.pc).find(x=>x[0] == '1.21.5')
   if (current){
     latestVer = current[0];
     latest = current[1];

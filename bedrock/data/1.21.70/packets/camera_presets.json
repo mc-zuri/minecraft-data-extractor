@@ -1,0 +1,67 @@
+{
+  "presets": [
+    {
+      "name": "minecraft:first_person",
+      "parent": "",
+      "position": {},
+      "rotation": {}
+    },
+    {
+      "name": "minecraft:fixed_boom",
+      "parent": "",
+      "position": {},
+      "rotation": {},
+      "offset": {
+        "x": 0,
+        "z": 0
+      },
+      "entity_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "align_target_and_camera_forward": false
+    },
+    {
+      "name": "minecraft:follow_orbit",
+      "parent": "",
+      "position": {},
+      "rotation": {},
+      "offset": {
+        "x": 0,
+        "z": 0
+      },
+      "entity_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "radius": 10
+    },
+    {
+      "name": "minecraft:free",
+      "parent": "",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "minecraft:third_person",
+      "parent": "",
+      "position": {},
+      "rotation": {}
+    },
+    {
+      "name": "minecraft:third_person_front",
+      "parent": "",
+      "position": {},
+      "rotation": {}
+    }
+  ]
+}

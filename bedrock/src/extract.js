@@ -19,12 +19,12 @@ async function run(version, outputDir = path.resolve(__dirname, '..', './output'
   await require('./biomeMap')(version, outputDir, dataDir)
   await require('./biomes')(version, outputDir, dataDir)
 
-  //console.log('👩‍🍳 Generating recipes')
-  //await require('./recipe')(version, outputDir, dataDir)
+  console.log('👩‍🍳 Generating recipes')
+  await require('./recipe')(version, outputDir, dataDir)
 
   console.log('🧟‍♂️ Generating entities')
   await require('./entities')(version, outputDir, dataDir)
 }
 
 module.exports = run
-if (!module.parent) run('1.21.60')
+if (!module.parent) run('1.21.70')

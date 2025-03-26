@@ -143,32 +143,32 @@ class BlockMapper {
   }
 
   async getBlockStatesGeyser() {
-    let data = fs.readFileSync(d`./BedrockBlockPaletteArchive/1.21.60.28_beta.nbt`)
-    const results = [];
-    while (data.length > 0) {
-      const { parsed, metadata } = await nbt.parse(data, "littleVarint");
-      data = data.slice(metadata.size);
+    // let data = fs.readFileSync(d`./BedrockBlockPaletteArchive/1.21.60.28_beta.nbt`)
+    // const results = [];
+    // while (data.length > 0) {
+    //   const { parsed, metadata } = await nbt.parse(data, "littleVarint");
+    //   data = data.slice(metadata.size);
 
-      var name =parsed.value.name.value;
-      results.push({
-        name: name.replace("minecraft:", ""),
-        states: parsed.value.states.value,
-        version: parsed.value.version.value,
-      });
-    }
-
-
-
-    // const data = fs.readFileSync(d`./mappings-generator/palettes/blockpalette.nbt`)
-    // const { parsed } = await nbt.parse(data)
-    // const results = []
-    // for (const block of parsed.value.blocks.value.value) {
+    //   var name =parsed.value.name.value;
     //   results.push({
-    //     name: block.name.value.replace('minecraft:', ''),
-    //     states: block.states.value,
-    //     version: block.version.value
-    //   })
-    // } 
+    //     name: name.replace("minecraft:", ""),
+    //     states: parsed.value.states.value,
+    //     version: parsed.value.version.value,
+    //   });
+    // }
+
+
+
+    const data = fs.readFileSync(d`./mappings-generator/palettes/block_palette.nbt`)
+    const { parsed } = await nbt.parse(data)
+    const results = []
+    for (const block of parsed.value.blocks.value.value) {
+      results.push({
+        name: block.name.value.replace('minecraft:', ''),
+        states: block.states.value,
+        version: block.version.value
+      })
+    } 
 
     return results
   }
