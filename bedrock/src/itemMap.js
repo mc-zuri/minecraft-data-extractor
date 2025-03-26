@@ -13,7 +13,7 @@ class ItemMapper {
     this.b2j = {}
 
     try {
-      this.packet = require(`${dataDir}/packets/start_game.json`)
+      this.packet = require(`${dataDir}/packets/item_registry.json`)
     } catch (e) {
       console.log(e)
       throw Error('You need to dump the packets first, please see the README.md file')

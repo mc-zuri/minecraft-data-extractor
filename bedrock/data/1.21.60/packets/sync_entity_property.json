@@ -1,0 +1,43 @@
+{
+  "nbt": {
+    "type": "compound",
+    "name": "",
+    "value": {
+      "properties": {
+        "type": "list",
+        "value": {
+          "type": "compound",
+          "value": [
+            {
+              "enum": {
+                "type": "list",
+                "value": {
+                  "type": "string",
+                  "value": [
+                    "unrolled",
+                    "rolled_up",
+                    "rolled_up_peeking",
+                    "rolled_up_relaxing",
+                    "rolled_up_unrolling"
+                  ]
+                }
+              },
+              "name": {
+                "type": "string",
+                "value": "minecraft:armadillo_state"
+              },
+              "type": {
+                "type": "int",
+                "value": 3
+              }
+            }
+          ]
+        }
+      },
+      "type": {
+        "type": "string",
+        "value": "minecraft:armadillo"
+      }
+    }
+  }
+}

@@ -59,7 +59,7 @@ class BlockMapper {
       let val = this.jss2bss(value)
       let brid = this.bs2brid[val]
       if (brid == null) {
-        console.log('No BSID for', value, key, val)
+        //console.log('No BSID for', value, key, val)
       }
       out[key] = brid
     }
@@ -143,7 +143,7 @@ class BlockMapper {
   }
 
   async getBlockStatesGeyser() {
-    let data = fs.readFileSync(d`./BedrockBlockPaletteArchive/1.21.40.25_beta.nbt`)
+    let data = fs.readFileSync(d`./BedrockBlockPaletteArchive/1.21.60.28_beta.nbt`)
     const results = [];
     while (data.length > 0) {
       const { parsed, metadata } = await nbt.parse(data, "littleVarint");

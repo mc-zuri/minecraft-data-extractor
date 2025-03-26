@@ -1,7 +1,7 @@
 const path = require('path')
 
 async function run(version, outputDir = path.resolve(__dirname, '..', './output', version), dataDir = path.resolve(__dirname, '..', './data', version)) {
-  console.log('🔻 Downloading dependencies...')
+  //console.log('🔻 Downloading dependencies...')
   // await require('./deps')(version, outputDir, dataDir)
   console.log('🔁 Generating block map')
   await require('./blockMap')(version, outputDir, dataDir)
@@ -19,12 +19,12 @@ async function run(version, outputDir = path.resolve(__dirname, '..', './output'
   await require('./biomeMap')(version, outputDir, dataDir)
   await require('./biomes')(version, outputDir, dataDir)
 
-  // console.log('👩‍🍳 Generating recipes')
-  // await require('./recipe')(version, outputDir, dataDir)
+  //console.log('👩‍🍳 Generating recipes')
+  //await require('./recipe')(version, outputDir, dataDir)
 
   console.log('🧟‍♂️ Generating entities')
   await require('./entities')(version, outputDir, dataDir)
 }
 
 module.exports = run
-if (!module.parent) run('1.21.40')
+if (!module.parent) run('1.21.60')

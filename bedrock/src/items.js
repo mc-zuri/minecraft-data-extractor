@@ -13,14 +13,14 @@ module.exports = async (version, outputPath, dataDir) => {
 
   const entries = Object.entries(mcData.pc);
   let [[dataPathVer, dataPath]] = Object.entries(mcData.pc).slice(-1)
-  console.log('latest', dataPathVer, dataPath)
-  const current = entries.find(x=>x[0] == '1.21.3')
+  //console.log('latest', dataPathVer, dataPath)
+  const current = entries.find(x=>x[0] == '1.21.4')
   if (current){
     dataPathVer = current[0];
     dataPath = current[1];
   }
   const javaItems = require(`./deps/minecraft-data/data/${dataPath.blocks}/items.json`)
-  const itemstates = require(`${dataDir}/packets/start_game.json`).itemstates
+  const itemstates = require(`${dataDir}/packets/item_registry.json`).itemstates
 
 
   // verify
@@ -51,7 +51,7 @@ module.exports = async (version, outputPath, dataDir) => {
     }
 
     const name = strip(item.name)
-    console.log('b2j', name, bedrock2Java[name])
+    //console.log('b2j', name, bedrock2Java[name])
     const mapped = bedrock2Java[name]
 
     if (mapped?.length > 1) {
@@ -105,7 +105,7 @@ module.exports = async (version, outputPath, dataDir) => {
     }
   }
 
-  console.log(ret)
+
   fs.writeFileSync(outputPath + '/items.json', JSON.stringify(ret, null, 2))
   fs.writeFileSync(outputPath + '/minecraft-data/items.json', JSON.stringify(ret, null, 2))
 }

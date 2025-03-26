@@ -1,0 +1,130 @@
+{
+  "x": 48,
+  "y": 24,
+  "z": 16,
+  "blocks": [
+    {
+      "position": {
+        "x": 62,
+        "y": 48,
+        "z": 29
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 59,
+        "y": 48,
+        "z": 30
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 59,
+        "y": 48,
+        "z": 28
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 60,
+        "y": 48,
+        "z": 30
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 58,
+        "y": 48,
+        "z": 29
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 61,
+        "y": 48,
+        "z": 30
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 61,
+        "y": 48,
+        "z": 28
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 60,
+        "y": 48,
+        "z": 27
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 62,
+        "y": 48,
+        "z": 27
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    }
+  ],
+  "extra": [
+    {
+      "position": {
+        "x": 60,
+        "y": 49,
+        "z": 29
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 61,
+        "y": 49,
+        "z": 29
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    }
+  ]
+}

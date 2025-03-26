@@ -1,0 +1,58 @@
+{
+  "records": {
+    "type": "add",
+    "records_count": 1,
+    "records": [
+      {
+        "uuid": "423bdd67-ae2e-ee62-fdcb-acda0dbaee9f",
+        "entity_unique_id": "-17179869183",
+        "username": "Packet728",
+        "xbox_user_id": "",
+        "platform_chat_id": "",
+        "build_platform": 7,
+        "skin_data": {
+          "skin_id": "",
+          "play_fab_id": "",
+          "skin_resource_pack": "",
+          "skin_data": {
+            "width": 0,
+            "height": 0,
+            "data": {
+              "type": "Buffer",
+              "data": []
+            }
+          },
+          "animations": [],
+          "cape_data": {
+            "width": 0,
+            "height": 0,
+            "data": {
+              "type": "Buffer",
+              "data": []
+            }
+          },
+          "geometry_data": "null\n",
+          "geometry_data_version": "0.0.0",
+          "animation_data": "",
+          "cape_id": "",
+          "full_skin_id": "",
+          "arm_size": "wide",
+          "skin_color": "#0",
+          "personal_pieces": [],
+          "piece_tint_colors": [],
+          "premium": false,
+          "persona": false,
+          "cape_on_classic": false,
+          "primary_user": false,
+          "overriding_player_appearance": false
+        },
+        "is_teacher": false,
+        "is_host": false,
+        "is_subclient": false
+      }
+    ],
+    "verified": [
+      true
+    ]
+  }
+}

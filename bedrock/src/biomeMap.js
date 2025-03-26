@@ -13,7 +13,7 @@ module.exports = (version, outDir) => {
     const biomeId = javaData.int_map[biomeName]
     j[biomeName] = biomeId
     const bedrockName = bedrockData.universal2version[javaData.version2universal[biomeName]]
-    console.log('j2b', biomeName, bedrockName)
+    //console.log('j2b', biomeName, bedrockName)
     j2b[biomeName] = bedrockName
   }
 
@@ -21,7 +21,7 @@ module.exports = (version, outDir) => {
     const biomeId = bedrockData.int_map[biomeName]
     b[biomeName] = biomeId
     const javaName = javaData.universal2version[bedrockData.version2universal[biomeName]]
-    console.log('b2j', biomeName, javaName)
+    //console.log('b2j', biomeName, javaName)
     b2j[biomeName] = javaName
   }
 
