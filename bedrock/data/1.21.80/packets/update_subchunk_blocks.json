@@ -1,0 +1,41 @@
+{
+  "x": -128,
+  "y": 2147483624,
+  "z": -64,
+  "blocks": [
+    {
+      "position": {
+        "x": -118,
+        "y": -47,
+        "z": -56
+      },
+      "runtime_id": 1088912156,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": -118,
+        "y": -47,
+        "z": -55
+      },
+      "runtime_id": 1027437333,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": -118,
+        "y": -47,
+        "z": -57
+      },
+      "runtime_id": 1027437333,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    }
+  ],
+  "extra": []
+}

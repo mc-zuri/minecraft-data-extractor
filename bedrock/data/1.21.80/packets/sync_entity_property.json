@@ -1,0 +1,41 @@
+{
+  "nbt": {
+    "type": "compound",
+    "name": "",
+    "value": {
+      "properties": {
+        "type": "list",
+        "value": {
+          "type": "compound",
+          "value": [
+            {
+              "enum": {
+                "type": "list",
+                "value": {
+                  "type": "string",
+                  "value": [
+                    "temperate",
+                    "warm",
+                    "cold"
+                  ]
+                }
+              },
+              "name": {
+                "type": "string",
+                "value": "minecraft:climate_variant"
+              },
+              "type": {
+                "type": "int",
+                "value": 3
+              }
+            }
+          ]
+        }
+      },
+      "type": {
+        "type": "string",
+        "value": "minecraft:cow"
+      }
+    }
+  }
+}

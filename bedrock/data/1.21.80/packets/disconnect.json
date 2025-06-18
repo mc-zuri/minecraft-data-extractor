@@ -1,0 +1,6 @@
+{
+  "reason": "outdated_client",
+  "hide_disconnect_reason": false,
+  "message": "disconnectionScreen.outdatedClient",
+  "filtered_message": ""
+}
