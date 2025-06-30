@@ -15,16 +15,16 @@ async function run(version, outputDir = path.resolve(__dirname, '..', './output'
   await require('./itemMap')(version, outputDir, dataDir)
   await require('./items')(version, outputDir, dataDir)
 
-  console.log('🌎 Generating biome map + list')
-  await require('./biomeMap')(version, outputDir, dataDir)
+  //console.log('🌎 Generating biome map + list')
+  //await require('./biomeMap')(version, outputDir, dataDir)
   //await require('./biomes')(version, outputDir, dataDir)
 
-  console.log('👩‍🍳 Generating recipes')
-  await require('./recipe')(version, outputDir, dataDir)
+  //console.log('👩‍🍳 Generating recipes')
+  //await require('./recipe')(version, outputDir, dataDir)
 
   console.log('🧟‍♂️ Generating entities')
-  await require('./entities')(version, outputDir, dataDir)
+  //await require('./entities')(version, outputDir, dataDir)
 }
 
 module.exports = run
-if (!module.parent) run('1.21.80')
+if (!module.parent) run('1.21.90')

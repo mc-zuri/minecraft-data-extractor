@@ -13,14 +13,14 @@ module.exports = async (version, outputPath) => {
   const java2Bedrock = require(`${outputPath}/blocks/Java2Bedrock.json`)
   const bedrock2Java = require(`${outputPath}/blocks/Bedrock2Java.json`)
   let [[latestVer, latest]] = Object.entries(mcData.pc).slice(-1)
-  console.log('latest', latestVer, latest)
 
-  const current = Object.entries(mcData.pc).find(x=>x[0] == '1.21.5')
+
+  const current = Object.entries(mcData.pc).find(x=>x[0] == '1.21.6')
   if (current){
     latestVer = current[0];
     latest = current[1];
   }
-
+  console.log('using block data: ', latestVer, latest.blocks)
   const javaBlocks = require(`./deps/minecraft-data/data/${latest.blocks}/blocks.json`)
 
   // Mappings between Bedrock/Java
