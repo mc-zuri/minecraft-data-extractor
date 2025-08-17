@@ -1,0 +1,75 @@
+{
+  "x": 16,
+  "y": 8,
+  "z": -16,
+  "blocks": [
+    {
+      "position": {
+        "x": 23,
+        "y": 25,
+        "z": -5
+      },
+      "runtime_id": -864628509,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 22,
+        "y": 25,
+        "z": -7
+      },
+      "runtime_id": -864628509,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    }
+  ],
+  "extra": [
+    {
+      "position": {
+        "x": 23,
+        "y": 25,
+        "z": -5
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 23,
+        "y": 25,
+        "z": -5
+      },
+      "runtime_id": 1302137,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 22,
+        "y": 25,
+        "z": -7
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 22,
+        "y": 25,
+        "z": -7
+      },
+      "runtime_id": 1302137,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    }
+  ]
+}
