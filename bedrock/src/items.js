@@ -14,7 +14,7 @@ module.exports = async (version, outputPath, dataDir) => {
   const entries = Object.entries(mcData.pc);
   let [[dataPathVer, dataPath]] = Object.entries(mcData.pc).slice(-1)
   //console.log('latest', dataPathVer, dataPath)
-  const current = entries.find(x=>x[0] == '1.21.6')
+  const current = entries.find(x=>x[0] == '1.21.8')
   if (current){
     dataPathVer = current[0];
     dataPath = current[1];

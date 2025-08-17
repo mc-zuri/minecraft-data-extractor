@@ -159,7 +159,7 @@ class BlockMapper {
 
 
 
-    const data = fs.readFileSync(d`../../data/1.21.90/block_palette.nbt`)
+    const data = fs.readFileSync(d`../../data/1.21.100/block_palette.nbt`)
     const { parsed } = await nbt.parse(data)
     const results = []
     for (const block of parsed.value.blocks.value.value) {
