@@ -33,7 +33,12 @@ class ItemMapper {
     for (const javaItemName in map) {
       const bedrockItem = map[javaItemName]
       const mapped = this.itemstates[bedrockItem.bedrock_identifier]
-      this.j2b[strip(javaItemName)] = strip(mapped.name) + ':' + bedrockItem.bedrock_data
+
+      if(mapped){
+        this.j2b[strip(javaItemName)] = strip(mapped.name) + ':' + bedrockItem.bedrock_data
+      }else{
+        console.log('missing item', bedrockItem.bedrock_identifier, 'for', javaItemName)
+      }
     }
   }
 

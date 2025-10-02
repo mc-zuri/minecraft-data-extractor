@@ -82,7 +82,7 @@ function generateBiomeV2(version, outputPath, dataDir) {
 
 
 module.exports = (version, outputPath, dataDir) => {
-  if (version === '1.21.100') {
+  if (version === '1.21.110') {
     return generateBiomeV2(version, outputPath, dataDir);
   }
 
