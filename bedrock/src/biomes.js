@@ -18,7 +18,7 @@ function generateBiomeV2(version, outputPath, dataDir) {
   let [[latestVer, latest]] = Object.entries(mcData.pc).slice(-1)
   console.log('latest', latestVer, latest)
 
-  const current = Object.entries(mcData.pc).find(x => x[0] == '1.21.8')
+  const current = Object.entries(mcData.pc).find(x => x[0] == '1.21.10')
   if (current) {
     latestVer = current[0];
     latest = current[1];
@@ -82,7 +82,7 @@ function generateBiomeV2(version, outputPath, dataDir) {
 
 
 module.exports = (version, outputPath, dataDir) => {
-  if (version === '1.21.110') {
+  if (version === '1.21.120') {
     return generateBiomeV2(version, outputPath, dataDir);
   }
 
@@ -99,7 +99,7 @@ module.exports = (version, outputPath, dataDir) => {
   let [[latestVer, latest]] = Object.entries(mcData.pc).slice(-1)
   console.log('latest', latestVer, latest)
 
-  const current = Object.entries(mcData.pc).find(x => x[0] == '1.21.8')
+  const current = Object.entries(mcData.pc).find(x => x[0] == '1.21.10')
   if (current) {
     latestVer = current[0];
     latest = current[1];

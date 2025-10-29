@@ -27,4 +27,4 @@ async function run(version, outputDir = path.resolve(__dirname, '..', './output'
 }
 
 module.exports = run
-if (!module.parent) run('1.21.110')
+if (!module.parent) run('1.21.120')
