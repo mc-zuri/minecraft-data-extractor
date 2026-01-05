@@ -19,10 +19,10 @@ class BlockMapper {
   }
 
   buildJ2B(geyserMappingDir) {
-    if(fs.existsSync(geyserMappingDir)){
+    if (fs.existsSync(geyserMappingDir)) {
       var j2b = {}
       var blocksJson = require(geyserMappingDir)
-  
+
       for (var key in blocksJson.mappings) {
         let val = blocksJson.mappings[key]
         // map[key] = { bid: val.bedrock_identifier, bstates: val.bedrock_states }
@@ -31,13 +31,18 @@ class BlockMapper {
         j2b[javaKey] ??= bedrockKey
       }
       this.j2b = j2b
-    }else{
+    } else {
       // 1.21.0+
       var j2b = {}
       var blocksJson = require('./deps/mappings-generator/generator_blocks.json')
-  
+
       for (var key in blocksJson.mappings) {
         let val = blocksJson.mappings[key]
+        if (val.bedrock_state.bedrock_identifier.includes('birch_stairs')) {
+          console.log(key)
+        }
+
+
         let bedrockKey = 'minecraft:' + val.bedrock_state.bedrock_identifier + '[' + this._concatStatesJ2B(val.bedrock_state.state) + ']'
         let javaKey = val.java_state.Name + '[' + this._concatStatesJ2B(val.java_state.Properties, true) + ']';
         j2b[javaKey] ??= bedrockKey
@@ -72,7 +77,7 @@ class BlockMapper {
 
     for (var key of Object.keys(states).sort()) {
       let val = states[key]
-      if (!skipReplace){
+      if (!skipReplace) {
         if (val == 'true') val = 1
         if (val == 'false') val = 0
       }
@@ -107,7 +112,7 @@ class BlockMapper {
       let e = data[i]
       // console.log(e)
       let fname = ''
-      let name = 'minecraft:'+ e.name
+      let name = 'minecraft:' + e.name
       let states = ''
       for (var stateId in e.states) {
         let stateVal = e.states[stateId].value
@@ -159,7 +164,7 @@ class BlockMapper {
 
 
 
-    const data = fs.readFileSync(d`../../data/1.21.120/block_palette.nbt`)
+    const data = fs.readFileSync(d`../../data/1.21.130/block_palette.nbt`)
     const { parsed } = await nbt.parse(data)
     const results = []
     for (const block of parsed.value.blocks.value.value) {
@@ -168,7 +173,7 @@ class BlockMapper {
         states: block.states.value,
         version: block.version.value
       })
-    } 
+    }
 
     return results
   }
@@ -181,7 +186,7 @@ class BlockMapper {
     assert(od)
     console.log('writing to', od)
 
-    
+
     try {
       fs.mkdirSync(od + '/minecraft-data', { recursive: true })
     } catch (e) { console.log(e) }
@@ -215,9 +220,9 @@ class BlockMapper {
     {
       this.buildBRID(states)
       // console.log(this.brid2bs)
-      fs.writeFileSync(od + '/blocks/BRID.json',  stringify(this.brid2bs, { indent: '\t', maxLength: 19999 }))
+      fs.writeFileSync(od + '/blocks/BRID.json', stringify(this.brid2bs, { indent: '\t', maxLength: 19999 }))
       // console.log(this.bs2brid)
-      fs.writeFileSync(od + '/blocks/BSS.json', stringify(this.bs2brid, { indent: '\t', maxLength: 19999 }) )
+      fs.writeFileSync(od + '/blocks/BSS.json', stringify(this.bs2brid, { indent: '\t', maxLength: 19999 }))
     }
 
     // * Map Java BSS to Java Runtime IDs for convenience

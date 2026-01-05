@@ -13,7 +13,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "debug": "^4.4.3",
+    "json-stringify-pretty-compact": "^1.0.1",
+    "minecraft-data": "^3.101.0",
+    "prismarine-block": "^1.22.0",
     "prismarine-nbt": "^1.5.0",
-    "json-stringify-pretty-compact": "^1.0.1"
+    "prismarine-registry": "^1.11.0"
   }
 }
