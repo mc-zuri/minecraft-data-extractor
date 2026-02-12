@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "endstone-collision-extractor"
-version = "1.0.0"
+version = "2.1.0"
 description = "Collision shape extractor plugin for Endstone"
 requires-python = ">=3.9"
 dependencies = ["endstone>=0.6.0"]
@@ -14,3 +14,7 @@ collision_extractor = "collision_extractor:CollisionExtractor"
 
 [tool.setuptools.packages.find]
 where = ["."]
+exclude = ["build*", "dist*", "*.egg-info*"]
+
+[tool.setuptools]
+include-package-data = false

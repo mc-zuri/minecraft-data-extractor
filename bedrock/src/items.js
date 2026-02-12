@@ -41,16 +41,16 @@ module.exports = async (version, outputPath, dataDir) => {
   let bedrockExIx = 9000
 
   let ret = []
-  for (const item of itemstates) {
+  for (const bedrock_item of itemstates) {
     let blockStateId
-    if (item.runtime_id < 0) {
+    if (bedrock_item.runtime_id < 0) {
       for (let i = 0; i < bedrockBlockStates.length; i++) {
         const entry = bedrockBlockStates[i]
-        if (entry.name === item.name) blockStateId = i
+        if (entry.name === bedrock_item.name) blockStateId = i
       }
     }
 
-    const name = strip(item.name)
+    const name = strip(bedrock_item.name)
     //console.log('b2j', name, bedrock2Java[name])
     const mapped = bedrock2Java[name]
 
@@ -63,6 +63,7 @@ module.exports = async (version, outputPath, dataDir) => {
       variations.sort((a,b) => a.metadata - b.metadata)
       const e = variations.shift()
 
+      const name = bedrock_item.name.replace('minecraft:', '')
       ret.push({
         // Undefined just to make sure the keys are sorted correctly
         id: undefined,
@@ -72,7 +73,8 @@ module.exports = async (version, outputPath, dataDir) => {
         ...e,
         name: strip(name),
         variations,
-        blockStateId
+        blockStateId,
+        name, id: bedrock_item.runtime_id, nbt: bedrock_item.nbt, version: bedrock_item.version
       })
     } else {
       const mcdItem = javaItems.find(e => e.name === strip(mapped?.[0]?.[1]))
@@ -81,7 +83,8 @@ module.exports = async (version, outputPath, dataDir) => {
         stackSize: 1,
         ...mcdItem,
         name: strip(name),
-        blockStateId
+        blockStateId,
+        name, id: bedrock_item.runtime_id, nbt: bedrock_item.nbt, version: bedrock_item.version
       })
     }
   }

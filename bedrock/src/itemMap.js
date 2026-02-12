@@ -69,4 +69,4 @@ module.exports = async (version, path, dataDir) => {
   console.log('✔ ok ->', path)
 }
 
-if (!module.parent) module.exports(null, process.argv[2] || './1.17.10')
+if (!module.parent) module.exports(null, process.argv[2])
