@@ -31,8 +31,8 @@ function customJSONStringify(obj, options = {}) {
       // Check if this should be inline based on context
       const str = JSON.stringify(value).replace(/,/g, ', ')  // Add space after commas
 
-      // Block arrays (under "blocks" key) - always inline if enabled
-      if (inline.blockArrays && parentKey === 'blocks') {
+      // Block arrays (under "blocks" or "visualBlocks" key) - always inline if enabled
+      if (inline.blockArrays && (parentKey === 'blocks' || parentKey === 'visualBlocks')) {
         return str
       }
 
@@ -324,28 +324,47 @@ async function createCollisionDataV3(version, outputPath, dataPath) {
 
   const collisions = {
     blocks: {},
+    visualBlocks: {},
     shapes: {},
     dynamicShapes: {}
   }
 
-  // Build a map from blockStateHash to collisionShape
+  // Build a map from blockStateHash to collisionShape and outlineShape
   const hashToCollisionShape = {}
+  const hashToOutlineShape = {}
   for (const state of blockStatesJSON) {
     hashToCollisionShape[state.blockStateHash] = state.collisionShape || []
+    hashToOutlineShape[state.blockStateHash] = state.outlineShape || []
   }
 
-  // Build a map to deduplicate shapes and assign indices
+  // Normalize shape to array of boxes format
+  function normalizeShape(shape) {
+    if (!shape || shape.length === 0) {
+      // Empty shape -> [[0, 0, 0, 0, 0, 0]]
+      return [[0, 0, 0, 0, 0, 0]]
+    }
+    // Check if it's already an array of boxes or a single box
+    if (Array.isArray(shape[0])) {
+      // Already array of boxes
+      return shape
+    }
+    // Single box [x1, y1, z1, x2, y2, z2] -> [[x1, y1, z1, x2, y2, z2]]
+    return [shape]
+  }
+
+  // Build a map to deduplicate shapes (collision and visual combined)
   const shapeToIndex = new Map()
   let nextShapeIndex = 0
 
   function getShapeIndex(shape) {
-    const key = JSON.stringify(shape)
+    const normalized = normalizeShape(shape)
+    const key = JSON.stringify(normalized)
     if (shapeToIndex.has(key)) {
       return shapeToIndex.get(key)
     }
     const index = nextShapeIndex++
     shapeToIndex.set(key, index)
-    collisions.shapes[index] = shape
+    collisions.shapes[index] = normalized
     return index
   }
 
@@ -358,7 +377,8 @@ async function createCollisionDataV3(version, outputPath, dataPath) {
     }
     blockNameToStateHashes[name].push({
       hash: state.blockStateHash,
-      shape: state.collisionShape || []
+      shape: state.collisionShape || [],
+      outlineShape: state.outlineShape || []
     })
   }
 
@@ -378,16 +398,22 @@ async function createCollisionDataV3(version, outputPath, dataPath) {
     if (!stateData || stateData.length === 0) {
       console.warn(`No state data found for block: ${blockName}`)
       collisions.blocks[blockName] = [getShapeIndex([])]
+      collisions.visualBlocks[blockName] = [getShapeIndex([])]
       continue
     }
 
-    // Map each state to a shape index
-    const blockShapes = []
+    // Map each state to both collision and outline shape indices
+    // Both use the same getShapeIndex function for unified deduplication
+    const collisionIndices = []
+    const outlineIndices = []
     for (const state of stateData) {
-      const shapeIndex = getShapeIndex(state.shape)
-      blockShapes.push(shapeIndex)
+      const collisionIndex = getShapeIndex(state.shape)
+      const outlineIndex = getShapeIndex(state.outlineShape)
+      collisionIndices.push(collisionIndex)
+      outlineIndices.push(outlineIndex)
     }
-    collisions.blocks[blockName] = blockShapes
+    collisions.blocks[blockName] = collisionIndices
+    collisions.visualBlocks[blockName] = outlineIndices
   }
 
   // SECOND: Add dynamic shapes at the end (after all static shapes)
@@ -433,7 +459,7 @@ async function createCollisionDataV3(version, outputPath, dataPath) {
   fs.writeFileSync(outputPath + '/blockCollisionShapes.json', serialized)
   fs.writeFileSync(outputPath + '/minecraft-data/blockCollisionShapes.json', serialized)
 
-  console.log(`Generated collision data with ${Object.keys(collisions.blocks).length} blocks and ${Object.keys(collisions.shapes).length} shapes`)
+  console.log(`Generated collision data with ${Object.keys(collisions.blocks).length} blocks and ${Object.keys(collisions.shapes).length} shapes (collision + visual combined)`)
 }
 
 // Export: automatically selects V1, V2, or V3 based on available data

@@ -1,0 +1,108 @@
+{
+  "x": 112,
+  "y": 32,
+  "z": 672,
+  "blocks": [
+    {
+      "position": {
+        "x": 113,
+        "y": 37,
+        "z": 673
+      },
+      "runtime_id": -864628509,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 114,
+        "y": 36,
+        "z": 672
+      },
+      "runtime_id": -864628509,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 115,
+        "y": 36,
+        "z": 672
+      },
+      "runtime_id": -864628509,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    }
+  ],
+  "extra": [
+    {
+      "position": {
+        "x": 113,
+        "y": 37,
+        "z": 673
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 113,
+        "y": 37,
+        "z": 673
+      },
+      "runtime_id": 1302137,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 114,
+        "y": 36,
+        "z": 672
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 114,
+        "y": 36,
+        "z": 672
+      },
+      "runtime_id": 1302137,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 115,
+        "y": 36,
+        "z": 672
+      },
+      "runtime_id": 1211861802,
+      "flags": 2,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    },
+    {
+      "position": {
+        "x": 115,
+        "y": 36,
+        "z": 672
+      },
+      "runtime_id": 1302137,
+      "flags": 3,
+      "entity_unique_id": "-9223372036854775808",
+      "transition_type": "entity"
+    }
+  ]
+}

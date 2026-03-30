@@ -1,0 +1,16 @@
+{
+  "sound_id": "Spawn",
+  "position": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "extra_data": -1,
+  "entity_type": "minecraft:player",
+  "is_baby_mob": false,
+  "is_global": false,
+  "entity_unique_id": [
+    -4,
+    1
+  ]
+}

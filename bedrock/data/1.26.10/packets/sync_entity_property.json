@@ -1,0 +1,61 @@
+{
+  "nbt": {
+    "type": "compound",
+    "name": "",
+    "value": {
+      "properties": {
+        "type": "list",
+        "value": {
+          "type": "compound",
+          "value": [
+            {
+              "enum": {
+                "type": "list",
+                "value": {
+                  "type": "string",
+                  "value": [
+                    "neutral",
+                    "hostile_observed",
+                    "hostile_unobserved",
+                    "twitching",
+                    "crumbling"
+                  ]
+                }
+              },
+              "name": {
+                "type": "string",
+                "value": "minecraft:creaking_state"
+              },
+              "type": {
+                "type": "int",
+                "value": 3
+              }
+            },
+            {
+              "max": {
+                "type": "int",
+                "value": 6
+              },
+              "min": {
+                "type": "int",
+                "value": 0
+              },
+              "name": {
+                "type": "string",
+                "value": "minecraft:creaking_swaying_ticks"
+              },
+              "type": {
+                "type": "int",
+                "value": 0
+              }
+            }
+          ]
+        }
+      },
+      "type": {
+        "type": "string",
+        "value": "minecraft:creaking"
+      }
+    }
+  }
+}
