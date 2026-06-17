@@ -1,0 +1,26 @@
+{
+  "position": {
+    "x": 56,
+    "y": -16,
+    "z": 191
+  },
+  "nbt": {
+    "type": "compound",
+    "name": "",
+    "value": {
+      "spawn_data": {
+        "type": "compound",
+        "value": {
+          "TypeId": {
+            "type": "string",
+            "value": "minecraft:breeze"
+          },
+          "Weight": {
+            "type": "int",
+            "value": 1
+          }
+        }
+      }
+    }
+  }
+}

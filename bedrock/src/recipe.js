@@ -69,7 +69,7 @@ module.exports = (version, outputPath, dataDir) => {
   }
 
   // Build multi recipe enrichment map from server dump (in packets/ to avoid overwrite by output)
-  const serverDump = require(`${dataDir}/packets/recipes_server.json`);
+  const serverDump = require(`${dataDir}/recipes.json`);
   const multiMap = new Map();
   if (serverDump.multi) {
     for (const m of serverDump.multi) {

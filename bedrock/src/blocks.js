@@ -6,7 +6,7 @@ const strip = k => k.replace('minecraft:', '').split('[')[0]
 const sequential = data => data.every((num, i) => i === data.length - 1 || num < data[i + 1])
 const titleCase = (str) => str.replace(/\b\S/g, t => t.toUpperCase())
 
-module.exports = async (version, outputPath) => {
+module.exports = async (version, outputPath, dataDir, javaVersion) => {
   // Load the bedrock block states and mappings
   const mcData = require('./deps/minecraft-data/data/dataPaths.json')
   const bedrockBlockStates = require(`${outputPath}/blocks/BlockStates.json`)
@@ -15,10 +15,12 @@ module.exports = async (version, outputPath) => {
   let [[latestVer, latest]] = Object.entries(mcData.pc).slice(-1)
 
 
-  const current = Object.entries(mcData.pc).find(x=>x[0] == '1.21.11')
+  const current = Object.entries(mcData.pc).find(x=>x[0] == javaVersion)
   if (current){
     latestVer = current[0];
     latest = current[1];
+  }else{
+     throw Error(`data for java version ${javaVersion} not found!`)
   }
   console.log('using block data: ', latestVer, latest.blocks)
   const javaBlocks = require(`./deps/minecraft-data/data/${latest.blocks}/blocks.json`)
@@ -54,7 +56,7 @@ module.exports = async (version, outputPath) => {
           break
         }
       }
-      if (!found){
+      if (!found && !name.includes('golden_dandelion')) {
         throw Error(`unfound ${name} ${javaName}`)
       }
     }

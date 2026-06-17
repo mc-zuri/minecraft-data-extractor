@@ -49,7 +49,10 @@
     "icon": "minecraft:glass_pane",
     "name": "itemGroup.name.glassPane"
   },
-  { "category": "Construction", "name": "" },
+  {
+    "category": "Construction",
+    "name": ""
+  },
   {
     "category": "Construction",
     "icon": "minecraft:smooth_stone_slab",
@@ -60,19 +63,28 @@
     "icon": "minecraft:stone_bricks",
     "name": "itemGroup.name.stoneBrick"
   },
-  { "category": "Construction", "name": "" },
+  {
+    "category": "Construction",
+    "name": ""
+  },
   {
     "category": "Construction",
     "icon": "minecraft:sandstone",
     "name": "itemGroup.name.sandstone"
   },
-  { "category": "Construction", "name": "" },
+  {
+    "category": "Construction",
+    "name": ""
+  },
   {
     "category": "Construction",
     "icon": "minecraft:copper_block",
     "name": "itemGroup.name.copper"
   },
-  { "category": "Construction", "name": "" },
+  {
+    "category": "Construction",
+    "name": ""
+  },
   {
     "category": "Construction",
     "icon": "minecraft:white_wool",
@@ -103,8 +115,14 @@
     "icon": "minecraft:white_glazed_terracotta",
     "name": "itemGroup.name.glazedTerracotta"
   },
-  { "category": "Construction", "name": "" },
-  { "category": "Nature", "name": "" },
+  {
+    "category": "Construction",
+    "name": ""
+  },
+  {
+    "category": "Nature",
+    "name": ""
+  },
   {
     "category": "Nature",
     "icon": "minecraft:iron_ore",
@@ -115,7 +133,10 @@
     "icon": "minecraft:stone",
     "name": "itemGroup.name.stone"
   },
-  { "category": "Nature", "name": "" },
+  {
+    "category": "Nature",
+    "name": ""
+  },
   {
     "category": "Nature",
     "icon": "minecraft:oak_log",
@@ -136,7 +157,10 @@
     "icon": "minecraft:oak_sapling",
     "name": "itemGroup.name.sapling"
   },
-  { "category": "Nature", "name": "" },
+  {
+    "category": "Nature",
+    "name": ""
+  },
   {
     "category": "Nature",
     "icon": "minecraft:wheat_seeds",
@@ -147,7 +171,10 @@
     "icon": "minecraft:wheat",
     "name": "itemGroup.name.crop"
   },
-  { "category": "Nature", "name": "" },
+  {
+    "category": "Nature",
+    "name": ""
+  },
   {
     "category": "Nature",
     "icon": "minecraft:fern",
@@ -168,7 +195,10 @@
     "icon": "minecraft:yellow_dye",
     "name": "itemGroup.name.dye"
   },
-  { "category": "Nature", "name": "" },
+  {
+    "category": "Nature",
+    "name": ""
+  },
   {
     "category": "Nature",
     "icon": "minecraft:chicken",
@@ -179,19 +209,28 @@
     "icon": "minecraft:brown_mushroom",
     "name": "itemGroup.name.mushroom"
   },
-  { "category": "Nature", "name": "" },
+  {
+    "category": "Nature",
+    "name": ""
+  },
   {
     "category": "Nature",
     "icon": "minecraft:infested_stone",
     "name": "itemGroup.name.monsterStoneEgg"
   },
-  { "category": "Nature", "name": "" },
+  {
+    "category": "Nature",
+    "name": ""
+  },
   {
     "category": "Nature",
     "icon": "minecraft:chicken_spawn_egg",
     "name": "itemGroup.name.mobEgg"
   },
-  { "category": "Nature", "name": "" },
+  {
+    "category": "Nature",
+    "name": ""
+  },
   {
     "category": "Nature",
     "icon": "minecraft:tube_coral_block",
@@ -202,7 +241,10 @@
     "icon": "minecraft:sculk",
     "name": "itemGroup.name.sculk"
   },
-  { "category": "Nature", "name": "" },
+  {
+    "category": "Nature",
+    "name": ""
+  },
   {
     "category": "Equipment",
     "icon": "minecraft:leather_helmet",
@@ -253,13 +295,19 @@
     "icon": "minecraft:wooden_hoe",
     "name": "itemGroup.name.hoe"
   },
-  { "category": "Equipment", "name": "" },
+  {
+    "category": "Equipment",
+    "name": ""
+  },
   {
     "category": "Equipment",
     "icon": "minecraft:arrow",
     "name": "itemGroup.name.arrow"
   },
-  { "category": "Equipment", "name": "" },
+  {
+    "category": "Equipment",
+    "name": ""
+  },
   {
     "category": "Equipment",
     "icon": "minecraft:cooked_chicken",
@@ -270,13 +318,19 @@
     "icon": "minecraft:bread",
     "name": "itemGroup.name.miscFood"
   },
-  { "category": "Equipment", "name": "" },
+  {
+    "category": "Equipment",
+    "name": ""
+  },
   {
     "category": "Equipment",
     "icon": "minecraft:goat_horn",
     "name": "itemGroup.name.goatHorn"
   },
-  { "category": "Equipment", "name": "" },
+  {
+    "category": "Equipment",
+    "name": ""
+  },
   {
     "category": "Equipment",
     "icon": "minecraft:white_harness",
@@ -292,13 +346,19 @@
     "icon": "minecraft:leather_horse_armor",
     "name": "itemGroup.name.horseArmor"
   },
-  { "category": "Equipment", "name": "" },
+  {
+    "category": "Equipment",
+    "name": ""
+  },
   {
     "category": "Equipment",
     "icon": "minecraft:copper_nautilus_armor",
     "name": "itemGroup.name.nautilus_armor"
   },
-  { "category": "Equipment", "name": "" },
+  {
+    "category": "Equipment",
+    "name": ""
+  },
   {
     "category": "Equipment",
     "icon": "minecraft:potion",
@@ -319,14 +379,23 @@
     "icon": "minecraft:ominous_bottle",
     "name": "itemGroup.name.ominousBottle"
   },
-  { "category": "Equipment", "name": "" },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Equipment",
+    "name": ""
+  },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:bed",
     "name": "itemGroup.name.bed"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:lantern",
@@ -337,43 +406,64 @@
     "icon": "minecraft:candle",
     "name": "itemGroup.name.candles"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:anvil",
     "name": "itemGroup.name.anvil"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:oak_shelf",
     "name": "itemGroup.name.shelf"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:chest",
     "name": "itemGroup.name.chest"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:undyed_shulker_box",
     "name": "itemGroup.name.shulkerBox"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:copper_golem_statue",
     "name": "itemGroup.name.copper_golem_statue"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:music_disc_13",
     "name": "itemGroup.name.record"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:oak_sign",
@@ -384,7 +474,10 @@
     "icon": "minecraft:oak_hanging_sign",
     "name": "itemGroup.name.hanging_sign"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:creeper_head",
@@ -395,7 +488,10 @@
     "icon": "minecraft:lightning_rod",
     "name": "itemGroup.name.lightning_rod"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:enchanted_book",
@@ -421,19 +517,28 @@
     "icon": "minecraft:minecart",
     "name": "itemGroup.name.minecart"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:wooden_button",
     "name": "itemGroup.name.buttons"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:wooden_pressure_plate",
     "name": "itemGroup.name.pressurePlate"
   },
-  { "category": "Items", "name": "" },
+  {
+    "category": "Items",
+    "name": ""
+  },
   {
     "category": "Items",
     "icon": "minecraft:banner",
@@ -469,5 +574,8 @@
     "icon": "minecraft:iron_chain",
     "name": "itemGroup.name.chains"
   },
-  { "category": "Items", "name": "" }
+  {
+    "category": "Items",
+    "name": ""
+  }
 ]

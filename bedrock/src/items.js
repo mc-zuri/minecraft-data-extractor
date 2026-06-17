@@ -5,7 +5,7 @@ const assert = require('assert')
 const strip = k => k?.replace('minecraft:', '').split('[')[0]
 const titleCase = (str) => str.replace(/\b\S/g, t => t.toUpperCase())
 
-module.exports = async (version, outputPath, dataDir) => {
+module.exports = async (version, outputPath, dataDir, javaVersion) => {
   const mcData = require('./deps/minecraft-data/data/dataPaths.json')
   const bedrockBlockStates = require(`${outputPath}/blocks/BlockStates.json`)
   const java2Bedrock = require(`${outputPath}/items/Java2Bedrock.json`)
@@ -14,10 +14,13 @@ module.exports = async (version, outputPath, dataDir) => {
   const entries = Object.entries(mcData.pc);
   let [[dataPathVer, dataPath]] = Object.entries(mcData.pc).slice(-1)
   //console.log('latest', dataPathVer, dataPath)
-  const current = entries.find(x=>x[0] == '1.21.11')
+  const current = entries.find(x=>x[0] == javaVersion)
   if (current){
     dataPathVer = current[0];
     dataPath = current[1];
+  }
+  else{
+     throw Error(`data for java version ${javaVersion} not found!`)
   }
   const javaItems = require(`./deps/minecraft-data/data/${dataPath.blocks}/items.json`)
   const itemstates = require(`${dataDir}/packets/item_registry.json`).itemstates

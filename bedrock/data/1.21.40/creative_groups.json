@@ -1,0 +1,322 @@
+[
+  {
+    "category": "Items",
+    "name": "itemGroup.name.banner"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.beacon"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.bell"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.brick"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.buttons"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.cactus"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.camera"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.chest"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.chiseledBookshelf"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.clay"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.climbing"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.cobblestone"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.composter"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.concrete"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.concretePowder"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.constructionMisc"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.copper"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.coral"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.coral_decorations"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.craftingTables"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.crop"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.dirt"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.door"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.eggBlocks"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.enchantingTable"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.endPortalFrame"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.endRod"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.fence"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.fenceGate"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.flower"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.furnaces"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.glass"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.glassPane"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.glazedTerracotta"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.glowstone"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.grass"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.gravel"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.greenery"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.grindStone"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.ice"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.ironFence"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.leaves"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.lectern"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.lights"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.log"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.miscFood"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.monsterStoneEgg"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.mushroom"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.musicBlocks"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.natureBuildingBlocks"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.natureMisc"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.ore"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.oreBlocks"
+  },
+  {
+    "category": "ItemCommandOnly",
+    "name": "itemGroup.name.permission"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.pistons"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.planks"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.pressurePlate"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.pumpkins"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.purpur"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.rail"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.redstone"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.redstoneContainers"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.redstoneProducers"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.sand"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.sandstone"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.sapling"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.shulkerBox"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.sign"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.slab"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.stainedClay"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.stairs"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.stone"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.stoneBrick"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.tnt"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.torch"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.trapdoor"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.walls"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.wood"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.wool"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.woolCarpet"
+  }
+]

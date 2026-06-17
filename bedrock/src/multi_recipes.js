@@ -11,7 +11,7 @@ function swapUuidByteOrder(uuid) {
 
 module.exports = (version, outputPath, dataDir) => {
   const craftingData = require(`${dataDir}/packets/crafting_data.json`);
-  const serverDump = require(`${dataDir}/packets/recipes_server.json`);
+  const serverDump = require(`${dataDir}/recipes.json`);
 
   // Build enrichment map from server dump (canonical UUID → {name, tag, netId})
   const multiMap = new Map();

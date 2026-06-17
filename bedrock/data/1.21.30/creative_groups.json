@@ -1,0 +1,198 @@
+[
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.brick"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.buttons"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.cactus"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.chest"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.chiseledBookshelf"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.clay"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.climbing"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.cobblestone"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.constructionMisc"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.copper"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.craftingTables"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.dirt"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.enchantingTable"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.endRod"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.fence"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.fenceGate"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.flower"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.furnaces"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.glass"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.glassPane"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.glazedTerracotta"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.glowstone"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.gravel"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.greenery"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.ice"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.ironFence"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.leaves"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.lectern"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.lights"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.log"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.monsterStoneEgg"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.mushroom"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.musicBlocks"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.natureBuildingBlocks"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.natureMisc"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.ore"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.oreBlocks"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.pressurePlate"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.rail"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.redstone"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.redstoneContainers"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.redstoneProducers"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.sapling"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.stainedClay"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.stairs"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.stoneBrick"
+  },
+  {
+    "category": "Items",
+    "name": "itemGroup.name.torch"
+  },
+  {
+    "category": "Construction",
+    "name": "itemGroup.name.trapdoor"
+  },
+  {
+    "category": "Nature",
+    "name": "itemGroup.name.wood"
+  }
+]

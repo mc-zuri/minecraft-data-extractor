@@ -1,0 +1,4326 @@
+{
+  "minecraft:acacia_button": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_door": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_double_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_fence": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_fence_gate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_hanging_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_leaves": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:acacia_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood",
+      "minecraft:log",
+      "minecraft:acacia"
+    ]
+  },
+  "minecraft:acacia_planks": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_pressure_plate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_sapling": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:acacia_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_standing_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_wall_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:acacia_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:activator_rail": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:rail"
+    ]
+  },
+  "minecraft:air": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:allium": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:allow": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:amethyst_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:amethyst_cluster": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:ancient_debris": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:andesite": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:andesite_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:anvil": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:azalea": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:azalea_leaves": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:azalea_leaves_flowered": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:azure_bluet": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:bamboo": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_button": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:bamboo_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_fence": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_fence_gate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:bamboo_hanging_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:bamboo_mosaic": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_mosaic_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_mosaic_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_mosaic_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_planks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_pressure_plate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:bamboo_sapling": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bamboo_standing_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:bamboo_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:bamboo_wall_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:barrel": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:barrier": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:basalt": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:beacon": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bed": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bedrock": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:not_feature_replaceable"
+    ]
+  },
+  "minecraft:bee_nest": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:beehive": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:beetroot": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:crop"
+    ]
+  },
+  "minecraft:bell": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:big_dripleaf": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:birch_button": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_door": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_double_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_fence": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_fence_gate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_hanging_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_leaves": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:birch_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood",
+      "minecraft:log",
+      "minecraft:birch"
+    ]
+  },
+  "minecraft:birch_planks": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_pressure_plate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_sapling": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:birch_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_standing_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_wall_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:birch_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:black_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:black_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:black_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:black_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:black_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:black_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:black_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:black_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:black_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:black_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:black_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blackstone": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blackstone_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blackstone_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blackstone_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blackstone_wall": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blast_furnace": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blue_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blue_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blue_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blue_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blue_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blue_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blue_ice": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blue_orchid": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:blue_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blue_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blue_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blue_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:blue_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bone_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bookshelf": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:border_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brain_coral": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brain_coral_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brain_coral_fan": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brewing_stand": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brick_block": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:brick_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:brick_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_mushroom": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_mushroom_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:brown_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bubble_column": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bubble_coral": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bubble_coral_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:bubble_coral_fan": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:budding_amethyst": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cactus": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:calcite": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:calibrated_sculk_sensor": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:camera": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:campfire": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:carrots": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:crop"
+    ]
+  },
+  "minecraft:cartography_table": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:carved_pumpkin": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:pumpkin"
+    ]
+  },
+  "minecraft:cauldron": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:metal"
+    ]
+  },
+  "minecraft:cave_vines": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cave_vines_body_with_berries": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cave_vines_head_with_berries": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:chain": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:chain_command_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:chemical_heat": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:chemistry_table": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cherry_button": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:cherry_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cherry_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cherry_fence": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cherry_fence_gate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:cherry_hanging_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:cherry_leaves": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cherry_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:cherry_planks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cherry_pressure_plate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:cherry_sapling": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cherry_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cherry_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cherry_standing_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:cherry_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:cherry_wall_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:cherry_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:chest": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:not_feature_replaceable"
+    ]
+  },
+  "minecraft:chiseled_bookshelf": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:not_feature_replaceable"
+    ]
+  },
+  "minecraft:chiseled_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:chiseled_deepslate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:chiseled_nether_bricks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:chiseled_polished_blackstone": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:chiseled_tuff": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:chiseled_tuff_bricks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:chorus_flower": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:chorus_plant": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:clay": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:client_request_placeholder_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:coal_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:coal_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:iron_pick_diggable",
+      "minecraft:diamond_pick_diggable"
+    ]
+  },
+  "minecraft:cobbled_deepslate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cobbled_deepslate_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cobbled_deepslate_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cobbled_deepslate_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cobbled_deepslate_wall": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cobblestone": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:cobblestone_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:cobblestone_wall": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:cocoa": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:colored_torch_bp": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:colored_torch_rg": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:command_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:composter": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:conduit": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:copper_block": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:copper_bulb": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:copper_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:copper_grate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:copper_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:copper_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors"
+    ]
+  },
+  "minecraft:coral_fan_hang": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:coral_fan_hang2": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:coral_fan_hang3": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cornflower": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:cracked_deepslate_bricks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cracked_deepslate_tiles": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cracked_nether_bricks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cracked_polished_blackstone_bricks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crafter": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crafting_table": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_button": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_fence": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_fence_gate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_fungus": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_hanging_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:crimson_hyphae": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_nylium": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:crimson_planks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_pressure_plate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_roots": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_standing_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign"
+    ]
+  },
+  "minecraft:crimson_stem": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:crimson_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors"
+    ]
+  },
+  "minecraft:crimson_wall_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign"
+    ]
+  },
+  "minecraft:crying_obsidian": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cut_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cut_copper_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:cyan_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cyan_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cyan_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cyan_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cyan_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cyan_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cyan_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cyan_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cyan_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cyan_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:cyan_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dark_oak_button": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:dark_oak_door": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:dark_oak_double_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:dark_oak_fence": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:dark_oak_fence_gate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:dark_oak_hanging_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:dark_oak_leaves": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dark_oak_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood",
+      "minecraft:log",
+      "minecraft:dark_oak"
+    ]
+  },
+  "minecraft:dark_oak_planks": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:dark_oak_pressure_plate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:dark_oak_sapling": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:dark_oak_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:dark_oak_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:dark_oak_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:dark_oak_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:dark_prismarine_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:darkoak_standing_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:darkoak_wall_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:daylight_detector": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:daylight_detector_inverted": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_brain_coral": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_brain_coral_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_brain_coral_fan": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_bubble_coral": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_bubble_coral_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_bubble_coral_fan": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_fire_coral": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_fire_coral_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_fire_coral_fan": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_horn_coral": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_horn_coral_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_horn_coral_fan": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_tube_coral": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_tube_coral_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dead_tube_coral_fan": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deadbush": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:decorated_pot": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deepslate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deepslate_brick_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deepslate_brick_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deepslate_brick_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deepslate_brick_wall": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deepslate_bricks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deepslate_coal_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:iron_pick_diggable",
+      "minecraft:diamond_pick_diggable"
+    ]
+  },
+  "minecraft:deepslate_copper_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:deepslate_diamond_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:diamond_pick_diggable",
+      "minecraft:iron_pick_diggable"
+    ]
+  },
+  "minecraft:deepslate_emerald_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:diamond_pick_diggable",
+      "minecraft:iron_pick_diggable"
+    ]
+  },
+  "minecraft:deepslate_gold_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:iron_pick_diggable",
+      "minecraft:diamond_pick_diggable"
+    ]
+  },
+  "minecraft:deepslate_iron_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:iron_pick_diggable",
+      "minecraft:diamond_pick_diggable"
+    ]
+  },
+  "minecraft:deepslate_lapis_ore": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deepslate_redstone_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:diamond_pick_diggable",
+      "minecraft:iron_pick_diggable"
+    ]
+  },
+  "minecraft:deepslate_tile_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deepslate_tile_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deepslate_tile_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deepslate_tile_wall": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deepslate_tiles": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:deny": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:detector_rail": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:rail"
+    ]
+  },
+  "minecraft:diamond_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:diamond_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:diamond_pick_diggable",
+      "minecraft:iron_pick_diggable"
+    ]
+  },
+  "minecraft:diorite": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:diorite_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dirt": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:grass",
+      "minecraft:dirt"
+    ]
+  },
+  "minecraft:dirt_with_roots": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:dirt"
+    ]
+  },
+  "minecraft:dispenser": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:double_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:double_stone_block_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:double_stone_block_slab2": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:double_stone_block_slab3": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:double_stone_block_slab4": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dragon_egg": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dried_kelp_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:dripstone_block": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:dropper": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_0": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_1": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_10": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_100": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_101": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_102": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_103": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_104": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_105": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_106": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_107": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_108": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_109": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_11": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_110": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_111": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_112": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_113": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_114": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_115": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_116": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_117": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_118": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_12": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_13": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_14": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_15": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_16": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_17": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_18": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_19": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_2": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_20": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_21": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_22": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_23": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_24": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_25": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_26": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_27": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_28": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_29": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_3": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_30": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_31": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_32": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_33": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_34": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_35": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_36": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_37": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_38": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_39": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_4": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_40": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_41": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_42": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_43": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_44": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_45": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_46": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_47": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_48": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_49": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_5": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_50": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_51": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_52": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_53": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_54": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_55": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_56": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_57": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_58": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_59": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_6": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_60": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_61": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_62": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_63": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_64": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_65": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_66": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_67": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_68": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_69": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_7": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_70": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_71": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_72": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_73": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_74": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_75": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_76": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_77": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_78": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_79": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_8": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_80": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_81": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_82": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_83": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_84": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_85": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_86": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_87": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_88": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_89": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_9": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_90": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_91": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_92": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_93": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_94": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_95": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_96": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_97": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_98": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:element_99": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:emerald_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:emerald_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:diamond_pick_diggable",
+      "minecraft:iron_pick_diggable"
+    ]
+  },
+  "minecraft:enchanting_table": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:end_brick_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:end_bricks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:end_gateway": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:end_portal": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:end_portal_frame": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:not_feature_replaceable"
+    ]
+  },
+  "minecraft:end_rod": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:end_stone": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:ender_chest": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:exposed_chiseled_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:exposed_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:exposed_copper_bulb": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:exposed_copper_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:exposed_copper_grate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:exposed_copper_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors"
+    ]
+  },
+  "minecraft:exposed_cut_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:exposed_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:exposed_cut_copper_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:exposed_double_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:farmland": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:dirt"
+    ]
+  },
+  "minecraft:fence_gate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:fern": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:fire": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:fire_coral": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:fire_coral_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:fire_coral_fan": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:fletching_table": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:flower_pot": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:flowering_azalea": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:flowing_lava": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:flowing_water": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:water"
+    ]
+  },
+  "minecraft:frame": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:frog_spawn": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:frosted_ice": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:furnace": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:gilded_blackstone": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:glow_frame": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:glow_lichen": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:glowingobsidian": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:glowstone": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:gold_block": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:metal"
+    ]
+  },
+  "minecraft:gold_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:iron_pick_diggable",
+      "minecraft:diamond_pick_diggable"
+    ]
+  },
+  "minecraft:golden_rail": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:rail"
+    ]
+  },
+  "minecraft:granite": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:granite_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:grass_block": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:grass",
+      "minecraft:fertilize_area",
+      "minecraft:dirt"
+    ]
+  },
+  "minecraft:grass_path": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:grass"
+    ]
+  },
+  "minecraft:gravel": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:gravel"
+    ]
+  },
+  "minecraft:gray_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:gray_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:gray_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:gray_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:gray_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:gray_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:gray_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:gray_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:gray_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:gray_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:gray_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:green_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:green_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:green_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:green_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:green_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:green_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:green_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:green_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:green_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:green_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:green_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:grindstone": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hanging_roots": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_black_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_black_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_blue_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_blue_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_brown_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_brown_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_cyan_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_cyan_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_gray_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_gray_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_green_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_green_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_light_blue_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_light_blue_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_light_gray_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_light_gray_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_lime_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_lime_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_magenta_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_magenta_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_orange_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_orange_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_pink_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_pink_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_purple_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_purple_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_red_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_red_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_white_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_white_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_yellow_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hard_yellow_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hardened_clay": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hay_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:heavy_core": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:heavy_weighted_pressure_plate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:honey_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:honeycomb_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:hopper": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:horn_coral": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:horn_coral_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:horn_coral_fan": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:ice": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:infested_deepslate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:info_update": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:info_update2": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:invisible_bedrock": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:iron_bars": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:metal"
+    ]
+  },
+  "minecraft:iron_block": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:metal"
+    ]
+  },
+  "minecraft:iron_door": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:metal"
+    ]
+  },
+  "minecraft:iron_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:iron_pick_diggable",
+      "minecraft:diamond_pick_diggable"
+    ]
+  },
+  "minecraft:iron_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors"
+    ]
+  },
+  "minecraft:jigsaw": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:jukebox": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:jungle_button": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_door": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_double_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_fence": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_fence_gate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_hanging_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_leaves": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:jungle_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood",
+      "minecraft:log",
+      "minecraft:jungle"
+    ]
+  },
+  "minecraft:jungle_planks": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_pressure_plate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_sapling": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:jungle_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_standing_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_wall_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:jungle_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:kelp": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:ladder": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:lantern": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lapis_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lapis_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:iron_pick_diggable",
+      "minecraft:diamond_pick_diggable"
+    ]
+  },
+  "minecraft:large_amethyst_bud": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:large_fern": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:lava": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lectern": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lever": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_blue_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_blue_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_blue_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_blue_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_blue_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_blue_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_blue_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_blue_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_blue_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_blue_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_blue_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_gray_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_gray_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_gray_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_gray_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_gray_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_gray_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_gray_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_gray_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_gray_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_gray_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:light_weighted_pressure_plate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lightning_rod": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lilac": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:lily_of_the_valley": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:lime_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lime_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lime_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lime_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lime_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lime_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lime_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lime_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lime_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lime_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lime_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lit_blast_furnace": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lit_deepslate_redstone_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:diamond_pick_diggable",
+      "minecraft:iron_pick_diggable"
+    ]
+  },
+  "minecraft:lit_furnace": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lit_pumpkin": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:pumpkin"
+    ]
+  },
+  "minecraft:lit_redstone_lamp": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lit_redstone_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:diamond_pick_diggable",
+      "minecraft:iron_pick_diggable"
+    ]
+  },
+  "minecraft:lit_smoker": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:lodestone": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:loom": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:magenta_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:magenta_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:magenta_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:magenta_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:magenta_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:magenta_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:magenta_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:magenta_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:magenta_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:magenta_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:magenta_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:magma": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mangrove_button": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:mangrove_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mangrove_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mangrove_fence": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mangrove_fence_gate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:mangrove_hanging_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:mangrove_leaves": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mangrove_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:mangrove_planks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mangrove_pressure_plate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:mangrove_propagule": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mangrove_roots": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mangrove_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mangrove_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mangrove_standing_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:mangrove_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:mangrove_wall_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:mangrove_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:medium_amethyst_bud": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:melon_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:melon_stem": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mob_spawner": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:mob_spawner",
+      "minecraft:not_feature_replaceable"
+    ]
+  },
+  "minecraft:monster_egg": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:moss_block": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area",
+      "minecraft:dirt"
+    ]
+  },
+  "minecraft:moss_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mossy_cobblestone": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:mossy_cobblestone_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mossy_stone_brick_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:moving_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mud": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:dirt"
+    ]
+  },
+  "minecraft:mud_brick_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mud_brick_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mud_brick_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mud_brick_wall": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:mud_bricks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:muddy_mangrove_roots": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:dirt"
+    ]
+  },
+  "minecraft:mycelium": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:dirt"
+    ]
+  },
+  "minecraft:nether_brick": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:nether_brick_fence": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:nether_brick_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:nether_brick_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:nether_gold_ore": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:nether_sprouts": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:nether_wart": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:nether_wart_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:netherite_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:netherrack": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:netherreactor": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:normal_stone_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:noteblock": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:oak_double_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:oak_fence": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:oak_hanging_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:oak_leaves": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:oak_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood",
+      "minecraft:log",
+      "minecraft:oak"
+    ]
+  },
+  "minecraft:oak_planks": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:oak_sapling": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:oak_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:oak_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:oak_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:observer": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:obsidian": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:diamond_pick_diggable"
+    ]
+  },
+  "minecraft:ochre_froglight": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:orange_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:orange_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:orange_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:orange_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:orange_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:orange_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:orange_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:orange_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:orange_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:orange_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:orange_tulip": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:orange_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:oxeye_daisy": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:oxidized_chiseled_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:oxidized_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:oxidized_copper_bulb": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:oxidized_copper_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:oxidized_copper_grate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:oxidized_copper_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors"
+    ]
+  },
+  "minecraft:oxidized_cut_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:oxidized_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:oxidized_cut_copper_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:oxidized_double_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:packed_ice": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:packed_mud": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pearlescent_froglight": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:peony": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:petrified_oak_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:pink_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pink_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pink_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pink_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pink_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pink_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pink_petals": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pink_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pink_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pink_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pink_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pink_tulip": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:pink_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:piston": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:piston_arm_collision": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pitcher_crop": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:crop",
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:pitcher_plant": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:podzol": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:dirt"
+    ]
+  },
+  "minecraft:pointed_dripstone": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_andesite": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:polished_andesite_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_basalt": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_blackstone": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_blackstone_brick_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_blackstone_brick_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_blackstone_brick_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_blackstone_brick_wall": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_blackstone_bricks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_blackstone_button": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_blackstone_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_blackstone_pressure_plate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_blackstone_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_blackstone_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_blackstone_wall": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_deepslate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_deepslate_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_deepslate_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_deepslate_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_deepslate_wall": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_diorite": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:polished_diorite_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_granite": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:polished_granite_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_tuff": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_tuff_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_tuff_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_tuff_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:polished_tuff_wall": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:poppy": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:portal": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:potatoes": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:crop"
+    ]
+  },
+  "minecraft:powder_snow": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:powered_comparator": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:powered_repeater": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:prismarine": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:prismarine_bricks_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:prismarine_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:pumpkin": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:pumpkin"
+    ]
+  },
+  "minecraft:pumpkin_stem": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purple_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purple_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purple_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purple_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purple_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purple_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purple_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purple_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purple_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purple_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purple_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purpur_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:purpur_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:quartz_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:quartz_bricks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:quartz_ore": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:quartz_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:quartz_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:rail": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:rail"
+    ]
+  },
+  "minecraft:raw_copper_block": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:raw_gold_block": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:iron_pick_diggable",
+      "minecraft:diamond_pick_diggable"
+    ]
+  },
+  "minecraft:raw_iron_block": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:iron_pick_diggable",
+      "minecraft:diamond_pick_diggable"
+    ]
+  },
+  "minecraft:red_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_mushroom": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_mushroom_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_nether_brick": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_nether_brick_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_sandstone": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_sandstone_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:red_tulip": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:red_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:redstone_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:redstone_lamp": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:redstone_ore": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:diamond_pick_diggable",
+      "minecraft:iron_pick_diggable"
+    ]
+  },
+  "minecraft:redstone_torch": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:redstone_wire": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:reeds": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:reinforced_deepslate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:repeating_command_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:reserved6": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:respawn_anchor": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:rose_bush": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:sand": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:sand"
+    ]
+  },
+  "minecraft:sandstone": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:sandstone_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:sandstone_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:scaffolding": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:sculk": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:sculk_catalyst": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:sculk_sensor": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:sculk_shrieker": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:sculk_vein": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:sea_lantern": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:sea_pickle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:seagrass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:short_grass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:shroomlight": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:silver_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:skull": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:slime": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:small_amethyst_bud": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:small_dripleaf_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:smithing_table": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:smoker": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:smooth_basalt": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:smooth_quartz_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:smooth_red_sandstone_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:smooth_sandstone_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:smooth_stone": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:smooth_stone_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:sniffer_egg": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:snow": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:snow_layer": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:snow"
+    ]
+  },
+  "minecraft:soul_campfire": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:soul_fire": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:soul_lantern": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:soul_sand": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:soul_soil": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:soul_torch": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:sponge": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:spore_blossom": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:spruce_button": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_door": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_double_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_fence": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_fence_gate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_hanging_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_leaves": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:spruce_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood",
+      "minecraft:log",
+      "minecraft:spruce"
+    ]
+  },
+  "minecraft:spruce_planks": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_pressure_plate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_sapling": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:spruce_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_standing_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_wall_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:spruce_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:standing_banner": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:standing_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:sticky_piston": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:sticky_piston_arm_collision": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:stone": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:stone_block_slab2": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:stone_block_slab3": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:stone_block_slab4": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:stone_brick_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:stone_brick_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:stone_button": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:stone_pressure_plate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:stone_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:stonebrick": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:stonecutter": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:stonecutter_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:stripped_acacia_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_acacia_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_bamboo_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:stripped_birch_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_birch_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_cherry_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_cherry_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_crimson_hyphae": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:stripped_crimson_stem": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:stripped_dark_oak_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_dark_oak_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_jungle_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_jungle_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_mangrove_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_mangrove_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_oak_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_oak_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_spruce_log": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_spruce_wood": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:stripped_warped_hyphae": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:stripped_warped_stem": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:structure_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:structure_void": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:sunflower": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:suspicious_gravel": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:gravel"
+    ]
+  },
+  "minecraft:suspicious_sand": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:sand"
+    ]
+  },
+  "minecraft:sweet_berry_bush": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:crop"
+    ]
+  },
+  "minecraft:tall_grass": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:plant"
+    ]
+  },
+  "minecraft:target": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tinted_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tnt": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:torch": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:torchflower": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:torchflower_crop": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:crop"
+    ]
+  },
+  "minecraft:trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:trapped_chest": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:trial_spawner": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:not_feature_replaceable"
+    ]
+  },
+  "minecraft:trip_wire": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tripwire_hook": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tube_coral": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tube_coral_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tube_coral_fan": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tuff": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tuff_brick_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tuff_brick_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tuff_brick_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tuff_brick_wall": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tuff_bricks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tuff_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tuff_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tuff_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:tuff_wall": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:turtle_egg": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:twisting_vines": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:underwater_torch": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:undyed_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:unknown": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:unlit_redstone_torch": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:unpowered_comparator": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:unpowered_repeater": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:vault": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:not_feature_replaceable"
+    ]
+  },
+  "minecraft:verdant_froglight": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:vine": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:wall_banner": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:wall_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:warped_button": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_double_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_fence": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_fence_gate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_fungus": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_hanging_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign",
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:warped_hyphae": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_nylium": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:warped_planks": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_pressure_plate": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_roots": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_stairs": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_standing_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign"
+    ]
+  },
+  "minecraft:warped_stem": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:warped_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors"
+    ]
+  },
+  "minecraft:warped_wall_sign": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:text_sign"
+    ]
+  },
+  "minecraft:warped_wart_block": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:water": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:water"
+    ]
+  },
+  "minecraft:waterlily": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:waxed_chiseled_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_copper_bulb": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_copper_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:waxed_copper_grate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_copper_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors"
+    ]
+  },
+  "minecraft:waxed_cut_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:waxed_cut_copper_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_double_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:waxed_exposed_chiseled_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_exposed_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_exposed_copper_bulb": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_exposed_copper_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:waxed_exposed_copper_grate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_exposed_copper_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors"
+    ]
+  },
+  "minecraft:waxed_exposed_cut_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_exposed_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:waxed_exposed_cut_copper_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_exposed_double_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:waxed_oxidized_chiseled_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_oxidized_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_oxidized_copper_bulb": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_oxidized_copper_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:waxed_oxidized_copper_grate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_oxidized_copper_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors"
+    ]
+  },
+  "minecraft:waxed_oxidized_cut_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_oxidized_cut_copper_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_oxidized_cut_copper_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_oxidized_double_cut_copper_slab": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_weathered_chiseled_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_weathered_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_weathered_copper_bulb": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_weathered_copper_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:waxed_weathered_copper_grate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_weathered_copper_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors"
+    ]
+  },
+  "minecraft:waxed_weathered_cut_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_weathered_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:waxed_weathered_cut_copper_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:waxed_weathered_double_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:weathered_chiseled_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:weathered_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:weathered_copper_bulb": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:weathered_copper_door": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:weathered_copper_grate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:weathered_copper_trapdoor": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:trapdoors"
+    ]
+  },
+  "minecraft:weathered_cut_copper": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:weathered_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:weathered_cut_copper_stairs": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:stone_pick_diggable"
+    ]
+  },
+  "minecraft:weathered_double_cut_copper_slab": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:web": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:weeping_vines": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:wheat": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:crop"
+    ]
+  },
+  "minecraft:white_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:white_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:white_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:white_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:white_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:white_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:white_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:white_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:white_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:white_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:white_tulip": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:white_wool": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:wither_rose": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:wooden_button": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:wooden_door": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:wooden_pressure_plate": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:wood"
+    ]
+  },
+  "minecraft:yellow_candle": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:yellow_candle_cake": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:yellow_carpet": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:yellow_concrete": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:yellow_concrete_powder": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:yellow_flower": {
+    "defaultBlockStateHash": 0,
+    "tags": [
+      "minecraft:fertilize_area"
+    ]
+  },
+  "minecraft:yellow_glazed_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:yellow_shulker_box": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:yellow_stained_glass": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:yellow_stained_glass_pane": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:yellow_terracotta": {
+    "defaultBlockStateHash": 0
+  },
+  "minecraft:yellow_wool": {
+    "defaultBlockStateHash": 0
+  }
+}

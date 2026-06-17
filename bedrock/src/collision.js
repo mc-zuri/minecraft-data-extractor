@@ -324,7 +324,7 @@ async function createCollisionDataV3(version, outputPath, dataPath) {
 
   const collisions = {
     blocks: {},
-    visualBlocks: {},
+    // visualBlocks: {},
     shapes: {},
     dynamicShapes: {}
   }
@@ -398,7 +398,7 @@ async function createCollisionDataV3(version, outputPath, dataPath) {
     if (!stateData || stateData.length === 0) {
       console.warn(`No state data found for block: ${blockName}`)
       collisions.blocks[blockName] = [getShapeIndex([])]
-      collisions.visualBlocks[blockName] = [getShapeIndex([])]
+      //collisions.visualBlocks[blockName] = [getShapeIndex([])]
       continue
     }
 
@@ -413,7 +413,7 @@ async function createCollisionDataV3(version, outputPath, dataPath) {
       outlineIndices.push(outlineIndex)
     }
     collisions.blocks[blockName] = collisionIndices
-    collisions.visualBlocks[blockName] = outlineIndices
+    //collisions.visualBlocks[blockName] = outlineIndices
   }
 
   // SECOND: Add dynamic shapes at the end (after all static shapes)

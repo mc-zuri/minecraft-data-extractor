@@ -3,20 +3,23 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 411,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:acacia_button": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -140,
     "isDamageable": false,
@@ -28,33 +31,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 684,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:acacia_door": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 595,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:acacia_double_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -812,
     "isDamageable": false,
@@ -66,7 +74,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -575,
     "isDamageable": false,
@@ -78,7 +86,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 187,
     "isDamageable": false,
@@ -90,13 +98,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 800.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -504,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign", "minecraft:hanging_sign"],
+    "tags": [
+      "minecraft:sign",
+      "minecraft:hanging_sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:acacia_leaves": {
@@ -115,33 +126,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 162,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:acacia_planks": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -742,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:planks"],
+    "tags": [
+      "minecraft:planks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:acacia_pressure_plate": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -150,
     "isDamageable": false,
@@ -153,7 +169,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -828,
     "isDamageable": false,
@@ -165,7 +181,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1051,
     "isDamageable": false,
@@ -177,33 +193,37 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 618,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign"],
+    "tags": [
+      "minecraft:sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:acacia_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -807,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:wooden_slabs"],
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:acacia_stairs": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 163,
     "isDamageable": false,
@@ -215,7 +235,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -190,
     "isDamageable": false,
@@ -227,7 +247,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -145,
     "isDamageable": false,
@@ -239,7 +259,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -191,
     "isDamageable": false,
@@ -251,13 +271,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -817,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:activator_rail": {
@@ -282,7 +305,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:air": {
@@ -307,7 +332,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:allium": {
@@ -368,7 +395,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_materials"],
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "toughnessValue": 0
   },
   "minecraft:ancient_debris": {
@@ -453,7 +482,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:anvil": {
@@ -478,7 +509,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:archer_pottery_sherd": {
@@ -491,7 +524,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:armadillo_scute": {
@@ -516,7 +551,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:armor_stand": {
@@ -541,7 +578,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:arrow": {
@@ -554,7 +593,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:arrow"],
+    "tags": [
+      "minecraft:arrow"
+    ],
     "toughnessValue": 0
   },
   "minecraft:axolotl_bucket": {
@@ -566,7 +607,7 @@
     "id": 401,
     "isDamageable": false,
     "maxDamage": 0,
-    "maxStackSize": 1,
+    "maxStackSize": 64,
     "toughnessValue": 0
   },
   "minecraft:axolotl_spawn_egg": {
@@ -579,14 +620,16 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:azalea": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -337,
     "isDamageable": false,
@@ -640,7 +683,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:balloon": {
@@ -659,7 +704,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 50.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -163,
     "isDamageable": false,
@@ -671,7 +716,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -527,
     "isDamageable": false,
@@ -683,7 +728,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -511,
     "isDamageable": false,
@@ -695,33 +740,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 696,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bamboo_door": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -517,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bamboo_double_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -521,
     "isDamageable": false,
@@ -733,7 +783,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -515,
     "isDamageable": false,
@@ -745,7 +795,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -516,
     "isDamageable": false,
@@ -757,20 +807,23 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 800.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -522,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign", "minecraft:hanging_sign"],
+    "tags": [
+      "minecraft:sign",
+      "minecraft:hanging_sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bamboo_mosaic": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -509,
     "isDamageable": false,
@@ -782,7 +835,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -525,
     "isDamageable": false,
@@ -794,7 +847,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -524,
     "isDamageable": false,
@@ -806,7 +859,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -523,
     "isDamageable": false,
@@ -818,20 +871,22 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -510,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:planks"],
+    "tags": [
+      "minecraft:planks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bamboo_pressure_plate": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -514,
     "isDamageable": false,
@@ -843,13 +898,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 695,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bamboo_sapling": {
@@ -868,7 +926,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1056,
     "isDamageable": false,
@@ -880,33 +938,37 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 694,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign"],
+    "tags": [
+      "minecraft:sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bamboo_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -513,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:wooden_slabs"],
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bamboo_stairs": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -512,
     "isDamageable": false,
@@ -918,7 +980,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -518,
     "isDamageable": false,
@@ -930,7 +992,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -520,
     "isDamageable": false,
@@ -942,7 +1004,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -519,
     "isDamageable": false,
@@ -954,13 +1016,15 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 606,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:banner"],
+    "tags": [
+      "minecraft:banner"
+    ],
     "toughnessValue": 0
   },
   "minecraft:banner_pattern": {
@@ -979,7 +1043,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -203,
     "isDamageable": false,
@@ -1021,7 +1085,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:beacon": {
@@ -1082,7 +1148,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:beef": {
@@ -1095,7 +1163,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food", "minecraft:is_meat"],
+    "tags": [
+      "minecraft:is_food",
+      "minecraft:is_meat"
+    ],
     "toughnessValue": 0
   },
   "minecraft:beehive": {
@@ -1120,7 +1191,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:beetroot_seeds": {
@@ -1145,7 +1218,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bell": {
@@ -1176,20 +1251,23 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 408,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:birch_button": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -141,
     "isDamageable": false,
@@ -1201,33 +1279,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 681,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:birch_door": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 593,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:birch_double_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -810,
     "isDamageable": false,
@@ -1239,7 +1322,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -576,
     "isDamageable": false,
@@ -1251,7 +1334,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 184,
     "isDamageable": false,
@@ -1263,13 +1346,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 800.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -502,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign", "minecraft:hanging_sign"],
+    "tags": [
+      "minecraft:sign",
+      "minecraft:hanging_sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:birch_leaves": {
@@ -1288,33 +1374,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -570,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:birch_planks": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -740,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:planks"],
+    "tags": [
+      "minecraft:planks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:birch_pressure_plate": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -151,
     "isDamageable": false,
@@ -1326,7 +1417,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -826,
     "isDamageable": false,
@@ -1338,7 +1429,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1049,
     "isDamageable": false,
@@ -1350,33 +1441,37 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 616,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign"],
+    "tags": [
+      "minecraft:sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:birch_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -805,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:wooden_slabs"],
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:birch_stairs": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 135,
     "isDamageable": false,
@@ -1388,7 +1483,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -186,
     "isDamageable": false,
@@ -1400,7 +1495,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -146,
     "isDamageable": false,
@@ -1412,7 +1507,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -187,
     "isDamageable": false,
@@ -1424,13 +1519,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -815,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:black_bundle": {
@@ -1479,7 +1577,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:black_concrete": {
@@ -1540,7 +1640,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:black_shulker_box": {
@@ -1601,7 +1703,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:blackstone": {
@@ -1678,7 +1783,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:blast_furnace": {
@@ -1709,7 +1816,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 2400.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 455,
     "isDamageable": false,
@@ -1727,7 +1834,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bleach": {
@@ -1788,7 +1897,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:blue_concrete": {
@@ -1837,7 +1948,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:egg"],
+    "tags": [
+      "minecraft:egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:blue_glazed_terracotta": {
@@ -1862,7 +1975,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:blue_ice": {
@@ -1947,7 +2062,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:board": {
@@ -1966,7 +2084,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 837,
     "isDamageable": false,
@@ -1984,7 +2102,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bolt_armor_trim_smithing_template": {
@@ -1997,7 +2117,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bone": {
@@ -2039,21 +2161,23 @@
   "minecraft:book": {
     "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 1,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 419,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:bookshelf_books"],
+    "tags": [
+      "minecraft:bookshelf_books"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bookshelf": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 47,
     "isDamageable": false,
@@ -2088,8 +2212,8 @@
   "minecraft:bow": {
     "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 1,
-    "furnaceBurnDuration": 200.0,
+    "enchantValue": 0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 331,
     "isDamageable": true,
@@ -2101,7 +2225,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 353,
     "isDamageable": false,
@@ -2167,7 +2291,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:breeze_rod": {
@@ -2192,7 +2318,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:brewer_pottery_sherd": {
@@ -2205,7 +2333,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:brewing_stand": {
@@ -2230,7 +2360,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:brick_block": {
@@ -2339,7 +2471,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:brown_concrete": {
@@ -2388,7 +2522,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:egg"],
+    "tags": [
+      "minecraft:egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:brown_glazed_terracotta": {
@@ -2413,7 +2549,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:brown_mushroom": {
@@ -2498,7 +2636,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:brush": {
@@ -2582,7 +2723,7 @@
     "id": 392,
     "isDamageable": false,
     "maxDamage": 0,
-    "maxStackSize": 16,
+    "maxStackSize": 64,
     "toughnessValue": 0
   },
   "minecraft:budding_amethyst": {
@@ -2619,7 +2760,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:bush": {
@@ -2704,7 +2847,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:camel_spawn_egg": {
@@ -2717,14 +2862,16 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:camera": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 636,
     "isDamageable": false,
@@ -2790,13 +2937,15 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:carrot_on_a_stick": {
     "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 1,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 556,
@@ -2821,7 +2970,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -200,
     "isDamageable": false,
@@ -2851,7 +3000,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cauldron": {
@@ -2876,7 +3027,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cave_vines": {
@@ -2928,9 +3081,9 @@
     "toughnessValue": 0
   },
   "minecraft:chainmail_boots": {
-    "armorValue": 1,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 12,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 374,
@@ -2945,9 +3098,9 @@
     "toughnessValue": 0
   },
   "minecraft:chainmail_chestplate": {
-    "armorValue": 5,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 12,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 372,
@@ -2962,9 +3115,9 @@
     "toughnessValue": 0
   },
   "minecraft:chainmail_helmet": {
-    "armorValue": 2,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 12,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 371,
@@ -2979,9 +3132,9 @@
     "toughnessValue": 0
   },
   "minecraft:chainmail_leggings": {
-    "armorValue": 4,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 12,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 373,
@@ -2999,7 +3152,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 230,
     "isDamageable": false,
@@ -3011,13 +3164,15 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1600.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.15000000596046448,
     "id": 334,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:coals"],
+    "tags": [
+      "minecraft:coals"
+    ],
     "toughnessValue": 0
   },
   "minecraft:chemical_heat": {
@@ -3048,20 +3203,23 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 691,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cherry_button": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -530,
     "isDamageable": false,
@@ -3073,33 +3231,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 692,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cherry_door": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -531,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cherry_double_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -540,
     "isDamageable": false,
@@ -3111,7 +3274,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -532,
     "isDamageable": false,
@@ -3123,7 +3286,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -533,
     "isDamageable": false,
@@ -3135,13 +3298,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 800.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -534,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign", "minecraft:hanging_sign"],
+    "tags": [
+      "minecraft:sign",
+      "minecraft:hanging_sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cherry_leaves": {
@@ -3160,33 +3326,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -536,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cherry_planks": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -537,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:planks"],
+    "tags": [
+      "minecraft:planks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cherry_pressure_plate": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -538,
     "isDamageable": false,
@@ -3198,7 +3369,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -547,
     "isDamageable": false,
@@ -3210,7 +3381,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1054,
     "isDamageable": false,
@@ -3222,33 +3393,37 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 693,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign"],
+    "tags": [
+      "minecraft:sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cherry_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -539,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:wooden_slabs"],
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cherry_stairs": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -541,
     "isDamageable": false,
@@ -3260,7 +3435,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -542,
     "isDamageable": false,
@@ -3272,7 +3447,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -543,
     "isDamageable": false,
@@ -3284,7 +3459,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -544,
     "isDamageable": false,
@@ -3296,20 +3471,23 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -546,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:chest": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 54,
     "isDamageable": false,
@@ -3321,7 +3499,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 687,
     "isDamageable": false,
@@ -3339,7 +3517,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_minecart"],
+    "tags": [
+      "minecraft:is_minecart"
+    ],
     "toughnessValue": 0
   },
   "minecraft:chicken": {
@@ -3352,7 +3532,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food", "minecraft:is_meat"],
+    "tags": [
+      "minecraft:is_food",
+      "minecraft:is_meat"
+    ],
     "toughnessValue": 0
   },
   "minecraft:chicken_spawn_egg": {
@@ -3365,7 +3548,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:chipped_anvil": {
@@ -3384,7 +3569,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -526,
     "isDamageable": false,
@@ -3498,7 +3683,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:stone_bricks"],
+    "tags": [
+      "minecraft:stone_bricks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:chiseled_tuff": {
@@ -3547,7 +3734,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:chorus_plant": {
@@ -3626,20 +3815,22 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1600.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.10000000149011612,
     "id": 333,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:coals"],
+    "tags": [
+      "minecraft:coals"
+    ],
     "toughnessValue": 0
   },
   "minecraft:coal_block": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 16000.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 173,
     "isDamageable": false,
@@ -3681,7 +3872,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cobbled_deepslate": {
@@ -3834,7 +4027,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_fish", "minecraft:is_food"],
+    "tags": [
+      "minecraft:is_fish",
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cod_bucket": {
@@ -3846,7 +4042,7 @@
     "id": 396,
     "isDamageable": false,
     "maxDamage": 0,
-    "maxStackSize": 1,
+    "maxStackSize": 64,
     "toughnessValue": 0
   },
   "minecraft:cod_spawn_egg": {
@@ -3859,7 +4055,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:colored_torch_blue": {
@@ -3956,7 +4154,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_minecart"],
+    "tags": [
+      "minecraft:is_minecart"
+    ],
     "toughnessValue": 0
   },
   "minecraft:comparator": {
@@ -3987,7 +4187,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -213,
     "isDamageable": false,
@@ -4065,7 +4265,11 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food", "minecraft:is_meat", "minecraft:is_cooked"],
+    "tags": [
+      "minecraft:is_food",
+      "minecraft:is_meat",
+      "minecraft:is_cooked"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cooked_chicken": {
@@ -4078,7 +4282,11 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food", "minecraft:is_meat", "minecraft:is_cooked"],
+    "tags": [
+      "minecraft:is_food",
+      "minecraft:is_meat",
+      "minecraft:is_cooked"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cooked_cod": {
@@ -4091,7 +4299,11 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_fish", "minecraft:is_cooked", "minecraft:is_food"],
+    "tags": [
+      "minecraft:is_fish",
+      "minecraft:is_cooked",
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cooked_mutton": {
@@ -4104,7 +4316,11 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food", "minecraft:is_meat", "minecraft:is_cooked"],
+    "tags": [
+      "minecraft:is_food",
+      "minecraft:is_meat",
+      "minecraft:is_cooked"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cooked_porkchop": {
@@ -4117,7 +4333,11 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food", "minecraft:is_meat", "minecraft:is_cooked"],
+    "tags": [
+      "minecraft:is_food",
+      "minecraft:is_meat",
+      "minecraft:is_cooked"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cooked_rabbit": {
@@ -4130,7 +4350,11 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food", "minecraft:is_meat", "minecraft:is_cooked"],
+    "tags": [
+      "minecraft:is_food",
+      "minecraft:is_meat",
+      "minecraft:is_cooked"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cooked_salmon": {
@@ -4143,7 +4367,11 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_fish", "minecraft:is_cooked", "minecraft:is_food"],
+    "tags": [
+      "minecraft:is_fish",
+      "minecraft:is_cooked",
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cookie": {
@@ -4156,13 +4384,15 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:copper_axe": {
     "armorValue": 0,
-    "attackDamage": 4,
-    "enchantValue": 13,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 776,
@@ -4202,9 +4432,9 @@
     "toughnessValue": 0
   },
   "minecraft:copper_boots": {
-    "armorValue": 1,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 8,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 781,
@@ -4255,9 +4485,9 @@
     "toughnessValue": 0
   },
   "minecraft:copper_chestplate": {
-    "armorValue": 4,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 8,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 779,
@@ -4281,7 +4511,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:copper_golem_spawn_egg": {
@@ -4294,7 +4526,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:copper_golem_statue": {
@@ -4322,9 +4556,9 @@
     "toughnessValue": 0
   },
   "minecraft:copper_helmet": {
-    "armorValue": 2,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 8,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 778,
@@ -4340,8 +4574,8 @@
   },
   "minecraft:copper_hoe": {
     "armorValue": 0,
-    "attackDamage": 3,
-    "enchantValue": 13,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 777,
@@ -4357,7 +4591,7 @@
     "toughnessValue": 0
   },
   "minecraft:copper_horse_armor": {
-    "armorValue": 4,
+    "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
@@ -4366,7 +4600,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:horse_armor"],
+    "tags": [
+      "minecraft:horse_armor"
+    ],
     "toughnessValue": 0
   },
   "minecraft:copper_ingot": {
@@ -4379,7 +4615,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_materials"],
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "toughnessValue": 0
   },
   "minecraft:copper_lantern": {
@@ -4395,9 +4633,9 @@
     "toughnessValue": 0
   },
   "minecraft:copper_leggings": {
-    "armorValue": 3,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 8,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 780,
@@ -4412,7 +4650,7 @@
     "toughnessValue": 0
   },
   "minecraft:copper_nautilus_armor": {
-    "armorValue": 4,
+    "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
@@ -4421,7 +4659,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:nautilus_armor"],
+    "tags": [
+      "minecraft:nautilus_armor"
+    ],
     "toughnessValue": 0
   },
   "minecraft:copper_nugget": {
@@ -4450,8 +4690,8 @@
   },
   "minecraft:copper_pickaxe": {
     "armorValue": 0,
-    "attackDamage": 3,
-    "enchantValue": 13,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 775,
@@ -4468,8 +4708,8 @@
   },
   "minecraft:copper_shovel": {
     "armorValue": 0,
-    "attackDamage": 2,
-    "enchantValue": 13,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 774,
@@ -4486,21 +4726,24 @@
   },
   "minecraft:copper_spear": {
     "armorValue": 0,
-    "attackDamage": 2,
-    "enchantValue": 13,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 257,
     "isDamageable": true,
     "maxDamage": 190,
     "maxStackSize": 1,
-    "tags": ["minecraft:copper_tier", "minecraft:is_spear"],
+    "tags": [
+      "minecraft:copper_tier",
+      "minecraft:is_spear"
+    ],
     "toughnessValue": 0
   },
   "minecraft:copper_sword": {
     "armorValue": 0,
-    "attackDamage": 5,
-    "enchantValue": 13,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 773,
@@ -4608,7 +4851,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cracked_deepslate_bricks": {
@@ -4669,7 +4914,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:stone_bricks"],
+    "tags": [
+      "minecraft:stone_bricks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:crafter": {
@@ -4688,7 +4935,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 58,
     "isDamageable": false,
@@ -4718,7 +4965,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:creeper_banner_pattern": {
@@ -4755,7 +5004,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:crimson_button": {
@@ -4780,7 +5031,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:crimson_double_slab": {
@@ -4841,7 +5094,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign", "minecraft:hanging_sign"],
+    "tags": [
+      "minecraft:sign",
+      "minecraft:hanging_sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:crimson_hyphae": {
@@ -4854,7 +5110,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:crimson_stems", "minecraft:logs"],
+    "tags": [
+      "minecraft:crimson_stems",
+      "minecraft:logs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:crimson_nylium": {
@@ -4879,7 +5138,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:planks"],
+    "tags": [
+      "minecraft:planks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:crimson_pressure_plate": {
@@ -4928,7 +5189,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign"],
+    "tags": [
+      "minecraft:sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:crimson_slab": {
@@ -4941,7 +5204,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:wooden_slabs"],
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:crimson_stairs": {
@@ -4978,7 +5243,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:crimson_stems", "minecraft:logs"],
+    "tags": [
+      "minecraft:crimson_stems",
+      "minecraft:logs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:crimson_trapdoor": {
@@ -5008,8 +5276,8 @@
   "minecraft:crossbow": {
     "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 1,
-    "furnaceBurnDuration": 200.0,
+    "enchantValue": 0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 614,
     "isDamageable": true,
@@ -5183,7 +5451,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cyan_concrete": {
@@ -5244,7 +5514,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:cyan_shulker_box": {
@@ -5305,7 +5577,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:damaged_anvil": {
@@ -5342,27 +5617,32 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dark_oak_boat": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 412,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dark_oak_button": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -142,
     "isDamageable": false,
@@ -5374,33 +5654,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 685,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dark_oak_door": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 596,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dark_oak_double_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -813,
     "isDamageable": false,
@@ -5412,7 +5697,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -577,
     "isDamageable": false,
@@ -5424,7 +5709,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 186,
     "isDamageable": false,
@@ -5436,13 +5721,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 800.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -505,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign", "minecraft:hanging_sign"],
+    "tags": [
+      "minecraft:sign",
+      "minecraft:hanging_sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dark_oak_leaves": {
@@ -5461,33 +5749,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -572,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dark_oak_planks": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -743,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:planks"],
+    "tags": [
+      "minecraft:planks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dark_oak_pressure_plate": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -152,
     "isDamageable": false,
@@ -5499,7 +5792,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -829,
     "isDamageable": false,
@@ -5511,7 +5804,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1052,
     "isDamageable": false,
@@ -5523,33 +5816,37 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 619,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign"],
+    "tags": [
+      "minecraft:sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dark_oak_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -808,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:wooden_slabs"],
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dark_oak_stairs": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 164,
     "isDamageable": false,
@@ -5561,7 +5858,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -147,
     "isDamageable": false,
@@ -5573,13 +5870,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -818,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dark_prismarine": {
@@ -5634,7 +5934,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -192,
     "isDamageable": false,
@@ -5646,7 +5946,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -193,
     "isDamageable": false,
@@ -5658,7 +5958,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 151,
     "isDamageable": false,
@@ -5670,7 +5970,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 178,
     "isDamageable": false,
@@ -5922,7 +6222,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 32,
     "isDamageable": false,
@@ -6240,13 +6540,15 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_materials"],
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "toughnessValue": 0
   },
   "minecraft:diamond_axe": {
     "armorValue": 0,
-    "attackDamage": 6,
-    "enchantValue": 10,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 350,
@@ -6275,9 +6577,9 @@
     "toughnessValue": 0
   },
   "minecraft:diamond_boots": {
-    "armorValue": 3,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 10,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 382,
@@ -6293,9 +6595,9 @@
     "toughnessValue": 2
   },
   "minecraft:diamond_chestplate": {
-    "armorValue": 8,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 10,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 380,
@@ -6311,9 +6613,9 @@
     "toughnessValue": 2
   },
   "minecraft:diamond_helmet": {
-    "armorValue": 3,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 10,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 379,
@@ -6330,8 +6632,8 @@
   },
   "minecraft:diamond_hoe": {
     "armorValue": 0,
-    "attackDamage": 5,
-    "enchantValue": 10,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 364,
@@ -6348,7 +6650,7 @@
     "toughnessValue": 0
   },
   "minecraft:diamond_horse_armor": {
-    "armorValue": 11,
+    "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
@@ -6357,13 +6659,16 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:horse_armor", "minecraft:transformable_items"],
+    "tags": [
+      "minecraft:horse_armor",
+      "minecraft:transformable_items"
+    ],
     "toughnessValue": 0
   },
   "minecraft:diamond_leggings": {
-    "armorValue": 6,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 10,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 381,
@@ -6379,7 +6684,7 @@
     "toughnessValue": 2
   },
   "minecraft:diamond_nautilus_armor": {
-    "armorValue": 11,
+    "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
@@ -6388,7 +6693,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:nautilus_armor", "minecraft:transformable_items"],
+    "tags": [
+      "minecraft:nautilus_armor",
+      "minecraft:transformable_items"
+    ],
     "toughnessValue": 0
   },
   "minecraft:diamond_ore": {
@@ -6405,8 +6713,8 @@
   },
   "minecraft:diamond_pickaxe": {
     "armorValue": 0,
-    "attackDamage": 5,
-    "enchantValue": 10,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 349,
@@ -6424,8 +6732,8 @@
   },
   "minecraft:diamond_shovel": {
     "armorValue": 0,
-    "attackDamage": 4,
-    "enchantValue": 10,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 348,
@@ -6443,8 +6751,8 @@
   },
   "minecraft:diamond_spear": {
     "armorValue": 0,
-    "attackDamage": 4,
-    "enchantValue": 10,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 258,
@@ -6460,8 +6768,8 @@
   },
   "minecraft:diamond_sword": {
     "armorValue": 0,
-    "attackDamage": 7,
-    "enchantValue": 10,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 347,
@@ -6594,7 +6902,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:donkey_spawn_egg": {
@@ -6607,7 +6917,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:double_cut_copper_slab": {
@@ -6740,14 +7052,16 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dried_kelp_block": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 4000.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -139,
     "isDamageable": false,
@@ -6789,7 +7103,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dune_armor_trim_smithing_template": {
@@ -6802,7 +7118,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:dye": {
@@ -6839,7 +7157,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:egg"],
+    "tags": [
+      "minecraft:egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:elder_guardian_spawn_egg": {
@@ -6852,7 +7172,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:element_0": {
@@ -8305,7 +8627,9 @@
     "isDamageable": true,
     "maxDamage": 432,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_armor"],
+    "tags": [
+      "minecraft:is_armor"
+    ],
     "toughnessValue": 0
   },
   "minecraft:emerald": {
@@ -8318,7 +8642,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_materials"],
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "toughnessValue": 0
   },
   "minecraft:emerald_block": {
@@ -8360,14 +8686,16 @@
   "minecraft:enchanted_book": {
     "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 1,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 560,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:bookshelf_books"],
+    "tags": [
+      "minecraft:bookshelf_books"
+    ],
     "toughnessValue": 0
   },
   "minecraft:enchanted_golden_apple": {
@@ -8380,7 +8708,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:enchanting_table": {
@@ -8549,7 +8879,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:ender_eye": {
@@ -8586,7 +8918,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:endermite_spawn_egg": {
@@ -8599,7 +8933,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:evoker_spawn_egg": {
@@ -8612,7 +8948,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:experience_bottle": {
@@ -8637,7 +8975,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:exposed_chiseled_copper": {
@@ -8722,7 +9062,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:exposed_copper_golem_statue": {
@@ -8843,7 +9185,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:farmland": {
@@ -8874,7 +9218,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 796,
     "isDamageable": false,
@@ -8886,7 +9230,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 107,
     "isDamageable": false,
@@ -9053,8 +9397,8 @@
   "minecraft:fishing_rod": {
     "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 1,
-    "furnaceBurnDuration": 300.0,
+    "enchantValue": 0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 424,
     "isDamageable": true,
@@ -9066,7 +9410,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -201,
     "isDamageable": false,
@@ -9108,7 +9452,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:flow_banner_pattern": {
@@ -9133,7 +9479,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:flower_banner_pattern": {
@@ -9164,7 +9512,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -338,
     "isDamageable": false,
@@ -9206,7 +9554,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:frame": {
@@ -9231,7 +9581,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:frog_spawn": {
@@ -9256,7 +9608,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:frosted_ice": {
@@ -9293,7 +9647,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:ghast_tear": {
@@ -9438,7 +9794,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:glow_stick": {
@@ -9511,7 +9869,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:gold_block": {
@@ -9536,7 +9896,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_materials"],
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "toughnessValue": 0
   },
   "minecraft:gold_nugget": {
@@ -9573,13 +9935,15 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:golden_axe": {
     "armorValue": 0,
-    "attackDamage": 3,
-    "enchantValue": 22,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 357,
@@ -9595,9 +9959,9 @@
     "toughnessValue": 0
   },
   "minecraft:golden_boots": {
-    "armorValue": 1,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 25,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 386,
@@ -9622,13 +9986,15 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:golden_chestplate": {
-    "armorValue": 5,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 25,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 384,
@@ -9643,9 +10009,9 @@
     "toughnessValue": 0
   },
   "minecraft:golden_helmet": {
-    "armorValue": 2,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 25,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 383,
@@ -9661,8 +10027,8 @@
   },
   "minecraft:golden_hoe": {
     "armorValue": 0,
-    "attackDamage": 2,
-    "enchantValue": 22,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 365,
@@ -9678,7 +10044,7 @@
     "toughnessValue": 0
   },
   "minecraft:golden_horse_armor": {
-    "armorValue": 7,
+    "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
@@ -9687,13 +10053,15 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:horse_armor"],
+    "tags": [
+      "minecraft:horse_armor"
+    ],
     "toughnessValue": 0
   },
   "minecraft:golden_leggings": {
-    "armorValue": 3,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 25,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 385,
@@ -9708,7 +10076,7 @@
     "toughnessValue": 0
   },
   "minecraft:golden_nautilus_armor": {
-    "armorValue": 7,
+    "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
@@ -9717,13 +10085,15 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:nautilus_armor"],
+    "tags": [
+      "minecraft:nautilus_armor"
+    ],
     "toughnessValue": 0
   },
   "minecraft:golden_pickaxe": {
     "armorValue": 0,
-    "attackDamage": 2,
-    "enchantValue": 22,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 356,
@@ -9752,8 +10122,8 @@
   },
   "minecraft:golden_shovel": {
     "armorValue": 0,
-    "attackDamage": 1,
-    "enchantValue": 22,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 355,
@@ -9770,21 +10140,24 @@
   },
   "minecraft:golden_spear": {
     "armorValue": 0,
-    "attackDamage": 1,
-    "enchantValue": 22,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 259,
     "isDamageable": true,
     "maxDamage": 30,
     "maxStackSize": 1,
-    "tags": ["minecraft:golden_tier", "minecraft:is_spear"],
+    "tags": [
+      "minecraft:golden_tier",
+      "minecraft:is_spear"
+    ],
     "toughnessValue": 0
   },
   "minecraft:golden_sword": {
     "armorValue": 0,
-    "attackDamage": 4,
-    "enchantValue": 22,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 354,
@@ -9940,7 +10313,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:gray_concrete": {
@@ -10001,7 +10376,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:gray_shulker_box": {
@@ -10062,7 +10439,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:green_bundle": {
@@ -10111,7 +10491,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:green_concrete": {
@@ -10172,7 +10554,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:green_shulker_box": {
@@ -10233,7 +10617,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:grindstone": {
@@ -10258,7 +10645,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:gunpowder": {
@@ -10295,7 +10684,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:hanging_roots": {
@@ -10320,7 +10711,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:hard_black_stained_glass": {
@@ -10801,7 +11194,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:heartbreak_pottery_sherd": {
@@ -10814,7 +11209,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:heavy_core": {
@@ -10851,7 +11248,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:honey_block": {
@@ -10876,7 +11275,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:honeycomb": {
@@ -10925,7 +11326,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_minecart"],
+    "tags": [
+      "minecraft:is_minecart"
+    ],
     "toughnessValue": 0
   },
   "minecraft:horn_coral": {
@@ -10986,7 +11389,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:host_armor_trim_smithing_template": {
@@ -10999,7 +11404,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:howl_pottery_sherd": {
@@ -11012,7 +11419,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:husk_spawn_egg": {
@@ -11025,7 +11434,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:ice": {
@@ -11186,8 +11597,8 @@
   },
   "minecraft:iron_axe": {
     "armorValue": 0,
-    "attackDamage": 5,
-    "enchantValue": 14,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 329,
@@ -11227,9 +11638,9 @@
     "toughnessValue": 0
   },
   "minecraft:iron_boots": {
-    "armorValue": 2,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 9,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 378,
@@ -11256,9 +11667,9 @@
     "toughnessValue": 0
   },
   "minecraft:iron_chestplate": {
-    "armorValue": 6,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 9,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 376,
@@ -11282,7 +11693,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:iron_golem_spawn_egg": {
@@ -11295,13 +11708,15 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:iron_helmet": {
-    "armorValue": 2,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 9,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 375,
@@ -11317,8 +11732,8 @@
   },
   "minecraft:iron_hoe": {
     "armorValue": 0,
-    "attackDamage": 4,
-    "enchantValue": 14,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 363,
@@ -11334,7 +11749,7 @@
     "toughnessValue": 0
   },
   "minecraft:iron_horse_armor": {
-    "armorValue": 5,
+    "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
@@ -11343,7 +11758,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:horse_armor"],
+    "tags": [
+      "minecraft:horse_armor"
+    ],
     "toughnessValue": 0
   },
   "minecraft:iron_ingot": {
@@ -11356,13 +11773,15 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_materials"],
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "toughnessValue": 0
   },
   "minecraft:iron_leggings": {
-    "armorValue": 5,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 9,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 377,
@@ -11377,7 +11796,7 @@
     "toughnessValue": 0
   },
   "minecraft:iron_nautilus_armor": {
-    "armorValue": 5,
+    "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
@@ -11386,7 +11805,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:nautilus_armor"],
+    "tags": [
+      "minecraft:nautilus_armor"
+    ],
     "toughnessValue": 0
   },
   "minecraft:iron_nugget": {
@@ -11415,8 +11836,8 @@
   },
   "minecraft:iron_pickaxe": {
     "armorValue": 0,
-    "attackDamage": 4,
-    "enchantValue": 14,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 328,
@@ -11433,8 +11854,8 @@
   },
   "minecraft:iron_shovel": {
     "armorValue": 0,
-    "attackDamage": 3,
-    "enchantValue": 14,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 327,
@@ -11451,28 +11872,35 @@
   },
   "minecraft:iron_spear": {
     "armorValue": 0,
-    "attackDamage": 3,
-    "enchantValue": 14,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 260,
     "isDamageable": true,
     "maxDamage": 250,
     "maxStackSize": 1,
-    "tags": ["minecraft:iron_tier", "minecraft:is_spear"],
+    "tags": [
+      "minecraft:iron_tier",
+      "minecraft:is_spear"
+    ],
     "toughnessValue": 0
   },
   "minecraft:iron_sword": {
     "armorValue": 0,
-    "attackDamage": 6,
-    "enchantValue": 14,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 338,
     "isDamageable": true,
     "maxDamage": 250,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_sword", "minecraft:is_tool", "minecraft:iron_tier"],
+    "tags": [
+      "minecraft:is_sword",
+      "minecraft:is_tool",
+      "minecraft:iron_tier"
+    ],
     "toughnessValue": 0
   },
   "minecraft:iron_trapdoor": {
@@ -11491,7 +11919,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 196,
     "isDamageable": false,
@@ -11527,7 +11955,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 194,
     "isDamageable": false,
@@ -11563,7 +11991,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 242,
     "isDamageable": false,
@@ -11611,7 +12039,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 197,
     "isDamageable": false,
@@ -11683,7 +12111,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 195,
     "isDamageable": false,
@@ -11707,7 +12135,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -493,
     "isDamageable": false,
@@ -11767,7 +12195,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 193,
     "isDamageable": false,
@@ -11803,7 +12231,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 64,
     "isDamageable": false,
@@ -11827,7 +12255,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 84,
     "isDamageable": false,
@@ -11839,20 +12267,23 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 409,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:jungle_button": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -143,
     "isDamageable": false,
@@ -11864,33 +12295,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 682,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:jungle_door": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 594,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:jungle_double_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -811,
     "isDamageable": false,
@@ -11902,7 +12338,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -578,
     "isDamageable": false,
@@ -11914,7 +12350,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 185,
     "isDamageable": false,
@@ -11926,13 +12362,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 800.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -503,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign", "minecraft:hanging_sign"],
+    "tags": [
+      "minecraft:sign",
+      "minecraft:hanging_sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:jungle_leaves": {
@@ -11951,33 +12390,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -571,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:jungle_planks": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -741,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:planks"],
+    "tags": [
+      "minecraft:planks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:jungle_pressure_plate": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -153,
     "isDamageable": false,
@@ -11989,7 +12433,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -827,
     "isDamageable": false,
@@ -12001,7 +12445,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1050,
     "isDamageable": false,
@@ -12013,33 +12457,37 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 617,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign"],
+    "tags": [
+      "minecraft:sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:jungle_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -806,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:wooden_slabs"],
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:jungle_stairs": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 136,
     "isDamageable": false,
@@ -12051,7 +12499,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -188,
     "isDamageable": false,
@@ -12063,7 +12511,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -148,
     "isDamageable": false,
@@ -12075,7 +12523,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -189,
     "isDamageable": false,
@@ -12087,13 +12535,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -816,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:kelp": {
@@ -12124,7 +12575,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 65,
     "isDamageable": false,
@@ -12166,7 +12617,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_materials"],
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "toughnessValue": 0
   },
   "minecraft:lapis_ore": {
@@ -12221,12 +12674,12 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 20000.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 395,
     "isDamageable": false,
     "maxDamage": 0,
-    "maxStackSize": 1,
+    "maxStackSize": 64,
     "toughnessValue": 0
   },
   "minecraft:lead": {
@@ -12245,7 +12698,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1026,
     "isDamageable": false,
@@ -12266,9 +12719,9 @@
     "toughnessValue": 0
   },
   "minecraft:leather_boots": {
-    "armorValue": 1,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 15,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 370,
@@ -12283,9 +12736,9 @@
     "toughnessValue": 0
   },
   "minecraft:leather_chestplate": {
-    "armorValue": 3,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 15,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 368,
@@ -12300,9 +12753,9 @@
     "toughnessValue": 0
   },
   "minecraft:leather_helmet": {
-    "armorValue": 1,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 15,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 367,
@@ -12317,7 +12770,7 @@
     "toughnessValue": 0
   },
   "minecraft:leather_horse_armor": {
-    "armorValue": 3,
+    "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
@@ -12326,13 +12779,15 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:horse_armor"],
+    "tags": [
+      "minecraft:horse_armor"
+    ],
     "toughnessValue": 0
   },
   "minecraft:leather_leggings": {
-    "armorValue": 2,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 15,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 369,
@@ -12374,7 +12829,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -194,
     "isDamageable": false,
@@ -12644,7 +13099,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:light_blue_concrete": {
@@ -12705,7 +13162,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:light_blue_shulker_box": {
@@ -12766,7 +13225,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:light_gray_bundle": {
@@ -12815,7 +13277,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:light_gray_concrete": {
@@ -12864,7 +13328,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:light_gray_shulker_box": {
@@ -12925,7 +13391,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:light_weighted_pressure_plate": {
@@ -13022,7 +13491,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:lime_concrete": {
@@ -13083,7 +13554,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:lime_shulker_box": {
@@ -13144,7 +13617,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:lingering_potion": {
@@ -13253,7 +13729,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:lodestone": {
@@ -13284,7 +13762,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 795,
     "isDamageable": false,
@@ -13296,7 +13774,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 818,
     "isDamageable": false,
@@ -13308,7 +13786,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -204,
     "isDamageable": false,
@@ -13318,8 +13796,8 @@
   },
   "minecraft:mace": {
     "armorValue": 0,
-    "attackDamage": 5,
-    "enchantValue": 10,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 351,
@@ -13379,7 +13857,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:magenta_concrete": {
@@ -13440,7 +13920,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:magenta_shulker_box": {
@@ -13501,7 +13983,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:magma": {
@@ -13538,27 +14023,32 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mangrove_boat": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 677,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mangrove_button": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -487,
     "isDamageable": false,
@@ -13570,33 +14060,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 686,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mangrove_door": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 675,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mangrove_double_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -499,
     "isDamageable": false,
@@ -13608,7 +14103,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -491,
     "isDamageable": false,
@@ -13620,7 +14115,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -492,
     "isDamageable": false,
@@ -13632,13 +14127,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 800.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -508,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign", "minecraft:hanging_sign"],
+    "tags": [
+      "minecraft:sign",
+      "minecraft:hanging_sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mangrove_leaves": {
@@ -13657,7 +14155,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -484,
     "isDamageable": false,
@@ -13674,20 +14172,22 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -486,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:planks"],
+    "tags": [
+      "minecraft:planks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mangrove_pressure_plate": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -490,
     "isDamageable": false,
@@ -13699,7 +14199,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -474,
     "isDamageable": false,
@@ -13711,7 +14211,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -482,
     "isDamageable": false,
@@ -13723,7 +14223,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1053,
     "isDamageable": false,
@@ -13735,33 +14235,37 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 676,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign"],
+    "tags": [
+      "minecraft:sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mangrove_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -489,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:wooden_slabs"],
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mangrove_stairs": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -488,
     "isDamageable": false,
@@ -13773,7 +14277,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -494,
     "isDamageable": false,
@@ -13785,7 +14289,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -496,
     "isDamageable": false,
@@ -13797,7 +14301,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -495,
     "isDamageable": false,
@@ -13809,7 +14313,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -497,
     "isDamageable": false,
@@ -13892,7 +14396,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:melon_stem": {
@@ -13916,7 +14422,7 @@
     "id": 393,
     "isDamageable": false,
     "maxDamage": 0,
-    "maxStackSize": 1,
+    "maxStackSize": 64,
     "toughnessValue": 0
   },
   "minecraft:minecart": {
@@ -13929,7 +14435,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_minecart"],
+    "tags": [
+      "minecraft:is_minecart"
+    ],
     "toughnessValue": 0
   },
   "minecraft:miner_pottery_sherd": {
@@ -13942,7 +14450,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mob_spawner": {
@@ -13991,7 +14501,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:moss_block": {
@@ -14136,7 +14648,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:stone_bricks"],
+    "tags": [
+      "minecraft:stone_bricks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mourner_pottery_sherd": {
@@ -14149,7 +14663,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:moving_block": {
@@ -14258,7 +14774,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mushroom_stem": {
@@ -14283,7 +14801,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_11": {
@@ -14296,7 +14816,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_13": {
@@ -14309,7 +14831,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_5": {
@@ -14322,7 +14846,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_blocks": {
@@ -14335,7 +14861,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_cat": {
@@ -14348,7 +14876,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_chirp": {
@@ -14361,7 +14891,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_creator": {
@@ -14374,7 +14906,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_creator_music_box": {
@@ -14387,7 +14921,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_far": {
@@ -14400,7 +14936,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_lava_chicken": {
@@ -14413,7 +14951,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_mall": {
@@ -14426,7 +14966,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_mellohi": {
@@ -14439,7 +14981,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_otherside": {
@@ -14452,7 +14996,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_pigstep": {
@@ -14465,7 +15011,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_precipice": {
@@ -14478,7 +15026,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_relic": {
@@ -14491,7 +15041,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_stal": {
@@ -14504,7 +15056,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_strad": {
@@ -14517,7 +15071,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_tears": {
@@ -14530,7 +15086,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_wait": {
@@ -14543,7 +15101,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:music_disc_ward": {
@@ -14556,7 +15116,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:music_disc"],
+    "tags": [
+      "minecraft:music_disc"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mutton": {
@@ -14569,7 +15131,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food", "minecraft:is_meat"],
+    "tags": [
+      "minecraft:is_food",
+      "minecraft:is_meat"
+    ],
     "toughnessValue": 0
   },
   "minecraft:mycelium": {
@@ -14618,7 +15183,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:nether_brick": {
@@ -14767,8 +15334,8 @@
   },
   "minecraft:netherite_axe": {
     "armorValue": 0,
-    "attackDamage": 7,
-    "enchantValue": 15,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 649,
@@ -14796,9 +15363,9 @@
     "toughnessValue": 0
   },
   "minecraft:netherite_boots": {
-    "armorValue": 3,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 15,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 655,
@@ -14813,9 +15380,9 @@
     "toughnessValue": 3
   },
   "minecraft:netherite_chestplate": {
-    "armorValue": 8,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 15,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 653,
@@ -14830,9 +15397,9 @@
     "toughnessValue": 3
   },
   "minecraft:netherite_helmet": {
-    "armorValue": 3,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 15,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 652,
@@ -14848,8 +15415,8 @@
   },
   "minecraft:netherite_hoe": {
     "armorValue": 0,
-    "attackDamage": 6,
-    "enchantValue": 15,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 650,
@@ -14865,7 +15432,7 @@
     "toughnessValue": 0
   },
   "minecraft:netherite_horse_armor": {
-    "armorValue": 19,
+    "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
@@ -14874,7 +15441,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:horse_armor", "minecraft:netherite_tier"],
+    "tags": [
+      "minecraft:horse_armor",
+      "minecraft:netherite_tier"
+    ],
     "toughnessValue": 0
   },
   "minecraft:netherite_ingot": {
@@ -14887,13 +15457,16 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:transform_materials", "minecraft:trim_materials"],
+    "tags": [
+      "minecraft:transform_materials",
+      "minecraft:trim_materials"
+    ],
     "toughnessValue": 0
   },
   "minecraft:netherite_leggings": {
-    "armorValue": 6,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 15,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 654,
@@ -14908,7 +15481,7 @@
     "toughnessValue": 3
   },
   "minecraft:netherite_nautilus_armor": {
-    "armorValue": 19,
+    "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
@@ -14917,13 +15490,16 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:nautilus_armor", "minecraft:netherite_tier"],
+    "tags": [
+      "minecraft:nautilus_armor",
+      "minecraft:netherite_tier"
+    ],
     "toughnessValue": 0
   },
   "minecraft:netherite_pickaxe": {
     "armorValue": 0,
-    "attackDamage": 6,
-    "enchantValue": 15,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 648,
@@ -14952,8 +15528,8 @@
   },
   "minecraft:netherite_shovel": {
     "armorValue": 0,
-    "attackDamage": 5,
-    "enchantValue": 15,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 647,
@@ -14970,21 +15546,24 @@
   },
   "minecraft:netherite_spear": {
     "armorValue": 0,
-    "attackDamage": 5,
-    "enchantValue": 15,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 261,
     "isDamageable": true,
     "maxDamage": 2030,
     "maxStackSize": 1,
-    "tags": ["minecraft:netherite_tier", "minecraft:is_spear"],
+    "tags": [
+      "minecraft:netherite_tier",
+      "minecraft:is_spear"
+    ],
     "toughnessValue": 0
   },
   "minecraft:netherite_sword": {
     "armorValue": 0,
-    "attackDamage": 8,
-    "enchantValue": 15,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 646,
@@ -15008,7 +15587,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:transform_templates"],
+    "tags": [
+      "minecraft:transform_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:netherrack": {
@@ -15075,7 +15656,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 25,
     "isDamageable": false,
@@ -15093,40 +15674,48 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:oak_boat": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 407,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:oak_chest_boat": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 680,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:oak_double_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 157,
     "isDamageable": false,
@@ -15138,7 +15727,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 85,
     "isDamageable": false,
@@ -15150,13 +15739,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 800.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -500,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign", "minecraft:hanging_sign"],
+    "tags": [
+      "minecraft:sign",
+      "minecraft:hanging_sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:oak_leaves": {
@@ -15175,33 +15767,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 17,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:oak_planks": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 5,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:planks"],
+    "tags": [
+      "minecraft:planks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:oak_sapling": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 6,
     "isDamageable": false,
@@ -15213,7 +15810,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1047,
     "isDamageable": false,
@@ -15225,33 +15822,37 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 390,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign"],
+    "tags": [
+      "minecraft:sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:oak_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 158,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:wooden_slabs"],
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:oak_stairs": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 53,
     "isDamageable": false,
@@ -15263,13 +15864,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -212,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:observer": {
@@ -15306,7 +15910,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:ochre_froglight": {
@@ -15403,7 +16009,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:orange_concrete": {
@@ -15464,7 +16072,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:orange_shulker_box": {
@@ -15537,7 +16147,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:oxeye_daisy": {
@@ -15634,7 +16247,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:oxidized_copper_golem_statue": {
@@ -15779,7 +16394,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:hanging_actor"],
+    "tags": [
+      "minecraft:hanging_actor"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pale_hanging_moss": {
@@ -15822,20 +16439,23 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 748,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pale_oak_button": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -989,
     "isDamageable": false,
@@ -15847,33 +16467,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 749,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pale_oak_door": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -990,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pale_oak_double_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -999,
     "isDamageable": false,
@@ -15885,7 +16510,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -991,
     "isDamageable": false,
@@ -15897,7 +16522,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -992,
     "isDamageable": false,
@@ -15909,13 +16534,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 800.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -993,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign", "minecraft:hanging_sign"],
+    "tags": [
+      "minecraft:sign",
+      "minecraft:hanging_sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pale_oak_leaves": {
@@ -15934,33 +16562,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -995,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pale_oak_planks": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -996,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:planks"],
+    "tags": [
+      "minecraft:planks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pale_oak_pressure_plate": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -997,
     "isDamageable": false,
@@ -15972,7 +16605,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1006,
     "isDamageable": false,
@@ -15984,7 +16617,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1055,
     "isDamageable": false,
@@ -15996,33 +16629,37 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 750,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign"],
+    "tags": [
+      "minecraft:sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pale_oak_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -998,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:wooden_slabs"],
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pale_oak_stairs": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1000,
     "isDamageable": false,
@@ -16034,7 +16671,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1001,
     "isDamageable": false,
@@ -16046,7 +16683,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1002,
     "isDamageable": false,
@@ -16058,7 +16695,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1003,
     "isDamageable": false,
@@ -16070,13 +16707,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1005,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:panda_spawn_egg": {
@@ -16089,7 +16729,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:paper": {
@@ -16114,7 +16756,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:parrot_spawn_egg": {
@@ -16127,7 +16771,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pearlescent_froglight": {
@@ -16200,7 +16846,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pig_spawn_egg": {
@@ -16213,7 +16861,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:piglin_banner_pattern": {
@@ -16238,7 +16888,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:piglin_head": {
@@ -16263,7 +16915,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pillager_spawn_egg": {
@@ -16276,7 +16930,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pink_bundle": {
@@ -16325,7 +16981,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pink_concrete": {
@@ -16386,7 +17044,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pink_petals": {
@@ -16471,7 +17131,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:piston": {
@@ -16538,7 +17201,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 815,
     "isDamageable": false,
@@ -16568,7 +17231,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:podzol": {
@@ -16605,7 +17270,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:polar_bear_spawn_egg": {
@@ -16618,7 +17285,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:polished_andesite": {
@@ -17075,7 +17744,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food", "minecraft:is_meat"],
+    "tags": [
+      "minecraft:is_food",
+      "minecraft:is_meat"
+    ],
     "toughnessValue": 0
   },
   "minecraft:portal": {
@@ -17100,7 +17772,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:potatoes": {
@@ -17148,7 +17822,7 @@
     "id": 400,
     "isDamageable": false,
     "maxDamage": 0,
-    "maxStackSize": 1,
+    "maxStackSize": 64,
     "toughnessValue": 0
   },
   "minecraft:powered_comparator": {
@@ -17317,7 +17991,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pufferfish": {
@@ -17330,7 +18006,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_fish", "minecraft:is_food"],
+    "tags": [
+      "minecraft:is_fish",
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pufferfish_bucket": {
@@ -17342,7 +18021,7 @@
     "id": 399,
     "isDamageable": false,
     "maxDamage": 0,
-    "maxStackSize": 1,
+    "maxStackSize": 64,
     "toughnessValue": 0
   },
   "minecraft:pufferfish_spawn_egg": {
@@ -17355,7 +18034,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pumpkin": {
@@ -17380,7 +18061,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:pumpkin_seeds": {
@@ -17453,7 +18136,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:purple_concrete": {
@@ -17514,7 +18199,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:purple_shulker_box": {
@@ -17575,7 +18262,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:purpur_block": {
@@ -17648,7 +18338,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_materials"],
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "toughnessValue": 0
   },
   "minecraft:quartz_block": {
@@ -17745,7 +18437,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food", "minecraft:is_meat"],
+    "tags": [
+      "minecraft:is_food",
+      "minecraft:is_meat"
+    ],
     "toughnessValue": 0
   },
   "minecraft:rabbit_foot": {
@@ -17782,7 +18477,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:rabbit_stew": {
@@ -17795,7 +18492,11 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_food", "minecraft:is_meat", "minecraft:is_cooked"],
+    "tags": [
+      "minecraft:is_food",
+      "minecraft:is_meat",
+      "minecraft:is_cooked"
+    ],
     "toughnessValue": 0
   },
   "minecraft:rail": {
@@ -17820,7 +18521,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:rapid_fertilizer": {
@@ -17845,7 +18548,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:raw_copper": {
@@ -17978,7 +18683,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:red_concrete": {
@@ -18051,7 +18758,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:red_mushroom": {
@@ -18148,7 +18857,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:sand"],
+    "tags": [
+      "minecraft:sand"
+    ],
     "toughnessValue": 0
   },
   "minecraft:red_sandstone": {
@@ -18281,7 +18992,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:redstone": {
@@ -18294,7 +19008,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_materials"],
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "toughnessValue": 0
   },
   "minecraft:redstone_block": {
@@ -18427,7 +19143,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_materials"],
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "toughnessValue": 0
   },
   "minecraft:resin_brick_double_slab": {
@@ -18524,7 +19242,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:rose_bush": {
@@ -18549,7 +19269,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food", "minecraft:is_meat"],
+    "tags": [
+      "minecraft:is_food",
+      "minecraft:is_meat"
+    ],
     "toughnessValue": 0
   },
   "minecraft:saddle": {
@@ -18574,7 +19297,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_fish", "minecraft:is_food"],
+    "tags": [
+      "minecraft:is_fish",
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:salmon_bucket": {
@@ -18586,7 +19312,7 @@
     "id": 397,
     "isDamageable": false,
     "maxDamage": 0,
-    "maxStackSize": 1,
+    "maxStackSize": 64,
     "toughnessValue": 0
   },
   "minecraft:salmon_spawn_egg": {
@@ -18599,7 +19325,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:sand": {
@@ -18612,7 +19340,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:sand"],
+    "tags": [
+      "minecraft:sand"
+    ],
     "toughnessValue": 0
   },
   "minecraft:sandstone": {
@@ -18679,7 +19409,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 809,
     "isDamageable": false,
@@ -18691,7 +19421,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 50.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -165,
     "isDamageable": false,
@@ -18709,7 +19439,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:sculk": {
@@ -18818,7 +19550,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:shaper_armor_trim_smithing_template": {
@@ -18831,7 +19565,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:sheaf_pottery_sherd": {
@@ -18844,7 +19580,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:shears": {
@@ -18857,7 +19595,9 @@
     "isDamageable": true,
     "maxDamage": 238,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_shears"],
+    "tags": [
+      "minecraft:is_shears"
+    ],
     "toughnessValue": 0
   },
   "minecraft:sheep_spawn_egg": {
@@ -18870,7 +19610,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:shelter_pottery_sherd": {
@@ -18883,7 +19625,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:shield": {
@@ -18902,7 +19646,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1028,
     "isDamageable": false,
@@ -18968,7 +19712,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:silence_armor_trim_smithing_template": {
@@ -18981,7 +19727,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:silver_glazed_terracotta": {
@@ -19006,7 +19754,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:skeleton_horse_spawn_egg": {
@@ -19019,7 +19769,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:skeleton_skull": {
@@ -19044,7 +19796,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:skull": {
@@ -19081,7 +19835,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:slime": {
@@ -19118,7 +19874,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:small_amethyst_bud": {
@@ -19149,7 +19907,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -202,
     "isDamageable": false,
@@ -19383,7 +20141,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:snort_pottery_sherd": {
@@ -19396,7 +20156,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:decorated_pot_sherds"],
+    "tags": [
+      "minecraft:decorated_pot_sherds"
+    ],
     "toughnessValue": 0
   },
   "minecraft:snout_armor_trim_smithing_template": {
@@ -19409,7 +20171,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:snow": {
@@ -19434,7 +20198,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:snow_layer": {
@@ -19507,7 +20273,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:soul_fire_base_blocks"],
+    "tags": [
+      "minecraft:soul_fire_base_blocks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:soul_soil": {
@@ -19520,7 +20288,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:soul_fire_base_blocks"],
+    "tags": [
+      "minecraft:soul_fire_base_blocks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:soul_torch": {
@@ -19557,7 +20327,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:spider_eye": {
@@ -19570,7 +20342,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:spider_spawn_egg": {
@@ -19583,7 +20357,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:spire_armor_trim_smithing_template": {
@@ -19596,7 +20372,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:splash_potion": {
@@ -19639,20 +20417,23 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 410,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:spruce_button": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -144,
     "isDamageable": false,
@@ -19664,33 +20445,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 1200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 683,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:boat", "minecraft:boats"],
+    "tags": [
+      "minecraft:boat",
+      "minecraft:boats"
+    ],
     "toughnessValue": 0
   },
   "minecraft:spruce_door": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 592,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:spruce_double_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -809,
     "isDamageable": false,
@@ -19702,7 +20488,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -579,
     "isDamageable": false,
@@ -19714,7 +20500,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 183,
     "isDamageable": false,
@@ -19726,13 +20512,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 800.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -501,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign", "minecraft:hanging_sign"],
+    "tags": [
+      "minecraft:sign",
+      "minecraft:hanging_sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:spruce_leaves": {
@@ -19751,33 +20540,38 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -569,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:spruce_planks": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -739,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:planks"],
+    "tags": [
+      "minecraft:planks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:spruce_pressure_plate": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -154,
     "isDamageable": false,
@@ -19789,7 +20583,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -825,
     "isDamageable": false,
@@ -19801,7 +20595,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1048,
     "isDamageable": false,
@@ -19813,33 +20607,37 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 615,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign"],
+    "tags": [
+      "minecraft:sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:spruce_slab": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -804,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:wooden_slabs"],
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:spruce_stairs": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 134,
     "isDamageable": false,
@@ -19851,7 +20649,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -181,
     "isDamageable": false,
@@ -19863,7 +20661,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -149,
     "isDamageable": false,
@@ -19875,7 +20673,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -182,
     "isDamageable": false,
@@ -19887,13 +20685,16 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -814,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:spyglass": {
@@ -19918,7 +20719,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stained_glass": {
@@ -19961,7 +20764,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 176,
     "isDamageable": false,
@@ -19973,7 +20776,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 63,
     "isDamageable": false,
@@ -19985,7 +20788,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 352,
     "isDamageable": false,
@@ -20031,8 +20834,8 @@
   },
   "minecraft:stone_axe": {
     "armorValue": 0,
-    "attackDamage": 4,
-    "enchantValue": 5,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 346,
@@ -20153,7 +20956,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:stone_bricks"],
+    "tags": [
+      "minecraft:stone_bricks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stone_button": {
@@ -20170,8 +20975,8 @@
   },
   "minecraft:stone_hoe": {
     "armorValue": 0,
-    "attackDamage": 3,
-    "enchantValue": 5,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 362,
@@ -20188,8 +20993,8 @@
   },
   "minecraft:stone_pickaxe": {
     "armorValue": 0,
-    "attackDamage": 3,
-    "enchantValue": 5,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 345,
@@ -20218,8 +21023,8 @@
   },
   "minecraft:stone_shovel": {
     "armorValue": 0,
-    "attackDamage": 2,
-    "enchantValue": 5,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 344,
@@ -20236,15 +21041,18 @@
   },
   "minecraft:stone_spear": {
     "armorValue": 0,
-    "attackDamage": 2,
-    "enchantValue": 5,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 262,
     "isDamageable": true,
     "maxDamage": 130,
     "maxStackSize": 1,
-    "tags": ["minecraft:stone_tier", "minecraft:is_spear"],
+    "tags": [
+      "minecraft:stone_tier",
+      "minecraft:is_spear"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stone_stairs": {
@@ -20261,15 +21069,19 @@
   },
   "minecraft:stone_sword": {
     "armorValue": 0,
-    "attackDamage": 5,
-    "enchantValue": 5,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 343,
     "isDamageable": true,
     "maxDamage": 131,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_sword", "minecraft:is_tool", "minecraft:stone_tier"],
+    "tags": [
+      "minecraft:is_sword",
+      "minecraft:is_tool",
+      "minecraft:stone_tier"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stonebrick": {
@@ -20318,7 +21130,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:strider_spawn_egg": {
@@ -20331,7 +21145,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:string": {
@@ -20350,33 +21166,39 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -8,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_acacia_wood": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -823,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_bamboo_block": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -528,
     "isDamageable": false,
@@ -20388,52 +21210,64 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -6,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_birch_wood": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -821,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_cherry_log": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -535,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_cherry_wood": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -545,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_crimson_hyphae": {
@@ -20446,7 +21280,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:crimson_stems", "minecraft:logs"],
+    "tags": [
+      "minecraft:crimson_stems",
+      "minecraft:logs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_crimson_stem": {
@@ -20459,66 +21296,81 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:crimson_stems", "minecraft:logs"],
+    "tags": [
+      "minecraft:crimson_stems",
+      "minecraft:logs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_dark_oak_log": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -9,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_dark_oak_wood": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -824,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_jungle_log": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -7,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_jungle_wood": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -822,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_mangrove_log": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -485,
     "isDamageable": false,
@@ -20535,7 +21387,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -498,
     "isDamageable": false,
@@ -20552,78 +21404,96 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -10,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_oak_wood": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -819,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_pale_oak_log": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -994,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_pale_oak_wood": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1004,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_spruce_log": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -5,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_spruce_wood": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -820,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:logs", "minecraft:logs_that_burn"],
+    "tags": [
+      "minecraft:logs",
+      "minecraft:logs_that_burn"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_warped_hyphae": {
@@ -20636,7 +21506,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:warped_stems", "minecraft:logs"],
+    "tags": [
+      "minecraft:warped_stems",
+      "minecraft:logs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:stripped_warped_stem": {
@@ -20649,7 +21522,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:warped_stems", "minecraft:logs"],
+    "tags": [
+      "minecraft:warped_stems",
+      "minecraft:logs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:structure_block": {
@@ -20746,7 +21622,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:sweet_berries": {
@@ -20759,7 +21637,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_food"],
+    "tags": [
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:sweet_berry_bush": {
@@ -20783,7 +21663,7 @@
     "id": 672,
     "isDamageable": false,
     "maxDamage": 0,
-    "maxStackSize": 1,
+    "maxStackSize": 64,
     "toughnessValue": 0
   },
   "minecraft:tadpole_spawn_egg": {
@@ -20796,14 +21676,16 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:tall_dry_grass": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": -1029,
     "isDamageable": false,
@@ -20857,7 +21739,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:tinted_glass": {
@@ -20894,7 +21778,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_minecart"],
+    "tags": [
+      "minecraft:is_minecart"
+    ],
     "toughnessValue": 0
   },
   "minecraft:torch": {
@@ -20967,14 +21853,16 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:trapdoor": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 96,
     "isDamageable": false,
@@ -20986,7 +21874,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 146,
     "isDamageable": false,
@@ -21020,15 +21908,17 @@
   },
   "minecraft:trident": {
     "armorValue": 0,
-    "attackDamage": 8,
-    "enchantValue": 1,
+    "attackDamage": 0,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 585,
     "isDamageable": true,
     "maxDamage": 250,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_trident"],
+    "tags": [
+      "minecraft:is_trident"
+    ],
     "toughnessValue": 0
   },
   "minecraft:trip_wire": {
@@ -21065,7 +21955,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:is_fish", "minecraft:is_food"],
+    "tags": [
+      "minecraft:is_fish",
+      "minecraft:is_food"
+    ],
     "toughnessValue": 0
   },
   "minecraft:tropical_fish_bucket": {
@@ -21077,7 +21970,7 @@
     "id": 398,
     "isDamageable": false,
     "maxDamage": 0,
-    "maxStackSize": 1,
+    "maxStackSize": 64,
     "toughnessValue": 0
   },
   "minecraft:tropical_fish_spawn_egg": {
@@ -21090,7 +21983,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:tube_coral": {
@@ -21274,16 +22169,19 @@
     "toughnessValue": 0
   },
   "minecraft:turtle_helmet": {
-    "armorValue": 2,
+    "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 9,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 612,
     "isDamageable": true,
     "maxDamage": 275,
     "maxStackSize": 1,
-    "tags": ["minecraft:is_armor", "minecraft:trimmable_armors"],
+    "tags": [
+      "minecraft:is_armor",
+      "minecraft:trimmable_armors"
+    ],
     "toughnessValue": 0
   },
   "minecraft:turtle_scute": {
@@ -21308,7 +22206,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:twisting_vines": {
@@ -21441,7 +22341,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:vex_spawn_egg": {
@@ -21454,7 +22356,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:villager_spawn_egg": {
@@ -21467,7 +22371,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:vindicator_spawn_egg": {
@@ -21480,7 +22386,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:vine": {
@@ -21499,7 +22407,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 177,
     "isDamageable": false,
@@ -21511,7 +22419,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 68,
     "isDamageable": false,
@@ -21529,7 +22437,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:ward_armor_trim_smithing_template": {
@@ -21542,7 +22452,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:warden_spawn_egg": {
@@ -21555,7 +22467,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:warped_button": {
@@ -21580,7 +22494,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:warped_double_slab": {
@@ -21634,7 +22550,7 @@
   "minecraft:warped_fungus_on_a_stick": {
     "armorValue": 0,
     "attackDamage": 0,
-    "enchantValue": 1,
+    "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 661,
@@ -21653,7 +22569,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign", "minecraft:hanging_sign"],
+    "tags": [
+      "minecraft:sign",
+      "minecraft:hanging_sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:warped_hyphae": {
@@ -21666,7 +22585,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:warped_stems", "minecraft:logs"],
+    "tags": [
+      "minecraft:warped_stems",
+      "minecraft:logs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:warped_nylium": {
@@ -21691,7 +22613,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:planks"],
+    "tags": [
+      "minecraft:planks"
+    ],
     "toughnessValue": 0
   },
   "minecraft:warped_pressure_plate": {
@@ -21740,7 +22664,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:sign"],
+    "tags": [
+      "minecraft:sign"
+    ],
     "toughnessValue": 0
   },
   "minecraft:warped_slab": {
@@ -21753,7 +22679,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:wooden_slabs"],
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:warped_stairs": {
@@ -21790,7 +22718,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:warped_stems", "minecraft:logs"],
+    "tags": [
+      "minecraft:warped_stems",
+      "minecraft:logs"
+    ],
     "toughnessValue": 0
   },
   "minecraft:warped_trapdoor": {
@@ -21850,7 +22781,7 @@
     "id": 394,
     "isDamageable": false,
     "maxDamage": 0,
-    "maxStackSize": 1,
+    "maxStackSize": 64,
     "toughnessValue": 0
   },
   "minecraft:waterlily": {
@@ -21947,7 +22878,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:waxed_copper_golem_statue": {
@@ -22128,7 +23061,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:waxed_exposed_copper_golem_statue": {
@@ -22333,7 +23268,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:waxed_oxidized_copper_golem_statue": {
@@ -22526,7 +23463,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:waxed_weathered_copper_golem_statue": {
@@ -22647,7 +23586,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:weathered_chiseled_copper": {
@@ -22732,7 +23673,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:weathered_copper_golem_statue": {
@@ -22949,7 +23892,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:white_concrete": {
@@ -23010,7 +23955,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:white_shulker_box": {
@@ -23083,7 +24030,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:wild_armor_trim_smithing_template": {
@@ -23096,7 +24046,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:trim_templates"],
+    "tags": [
+      "minecraft:trim_templates"
+    ],
     "toughnessValue": 0
   },
   "minecraft:wildflowers": {
@@ -23133,7 +24085,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:wither_rose": {
@@ -23170,7 +24124,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:wither_spawn_egg": {
@@ -23183,11 +24139,13 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:wolf_armor": {
-    "armorValue": 11,
+    "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
     "furnaceBurnDuration": 0.0,
@@ -23208,14 +24166,16 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:wood": {
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 825,
     "isDamageable": false,
@@ -23225,9 +24185,9 @@
   },
   "minecraft:wooden_axe": {
     "armorValue": 0,
-    "attackDamage": 3,
-    "enchantValue": 15,
-    "furnaceBurnDuration": 200.0,
+    "attackDamage": 0,
+    "enchantValue": 0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 342,
     "isDamageable": true,
@@ -23245,7 +24205,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 100.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 143,
     "isDamageable": false,
@@ -23257,20 +24217,22 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 200.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 391,
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:door"],
+    "tags": [
+      "minecraft:door"
+    ],
     "toughnessValue": 0
   },
   "minecraft:wooden_hoe": {
     "armorValue": 0,
-    "attackDamage": 2,
-    "enchantValue": 15,
-    "furnaceBurnDuration": 200.0,
+    "attackDamage": 0,
+    "enchantValue": 0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 361,
     "isDamageable": true,
@@ -23286,9 +24248,9 @@
   },
   "minecraft:wooden_pickaxe": {
     "armorValue": 0,
-    "attackDamage": 2,
-    "enchantValue": 15,
-    "furnaceBurnDuration": 200.0,
+    "attackDamage": 0,
+    "enchantValue": 0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 341,
     "isDamageable": true,
@@ -23306,7 +24268,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 72,
     "isDamageable": false,
@@ -23316,9 +24278,9 @@
   },
   "minecraft:wooden_shovel": {
     "armorValue": 0,
-    "attackDamage": 1,
-    "enchantValue": 15,
-    "furnaceBurnDuration": 200.0,
+    "attackDamage": 0,
+    "enchantValue": 0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 340,
     "isDamageable": true,
@@ -23336,7 +24298,7 @@
     "armorValue": 0,
     "attackDamage": 0,
     "enchantValue": 0,
-    "furnaceBurnDuration": 300.0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 812,
     "isDamageable": false,
@@ -23346,22 +24308,25 @@
   },
   "minecraft:wooden_spear": {
     "armorValue": 0,
-    "attackDamage": 1,
-    "enchantValue": 15,
-    "furnaceBurnDuration": 200.0,
+    "attackDamage": 0,
+    "enchantValue": 0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 263,
     "isDamageable": true,
     "maxDamage": 60,
     "maxStackSize": 1,
-    "tags": ["minecraft:wooden_tier", "minecraft:is_spear"],
+    "tags": [
+      "minecraft:wooden_tier",
+      "minecraft:is_spear"
+    ],
     "toughnessValue": 0
   },
   "minecraft:wooden_sword": {
     "armorValue": 0,
-    "attackDamage": 4,
-    "enchantValue": 15,
-    "furnaceBurnDuration": 200.0,
+    "attackDamage": 0,
+    "enchantValue": 0,
+    "furnaceBurnDuration": 0.0,
     "furnaceXPMultiplier": 0.0,
     "id": 339,
     "isDamageable": true,
@@ -23396,7 +24361,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:lectern_books", "minecraft:bookshelf_books"],
+    "tags": [
+      "minecraft:lectern_books",
+      "minecraft:bookshelf_books"
+    ],
     "toughnessValue": 0
   },
   "minecraft:written_book": {
@@ -23409,7 +24377,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 16,
-    "tags": ["minecraft:lectern_books", "minecraft:bookshelf_books"],
+    "tags": [
+      "minecraft:lectern_books",
+      "minecraft:bookshelf_books"
+    ],
     "toughnessValue": 0
   },
   "minecraft:yellow_bundle": {
@@ -23458,7 +24429,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper"],
+    "tags": [
+      "minecraft:vibration_damper"
+    ],
     "toughnessValue": 0
   },
   "minecraft:yellow_concrete": {
@@ -23519,7 +24492,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 1,
-    "tags": ["minecraft:harness"],
+    "tags": [
+      "minecraft:harness"
+    ],
     "toughnessValue": 0
   },
   "minecraft:yellow_shulker_box": {
@@ -23580,7 +24555,10 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:vibration_damper", "minecraft:wool"],
+    "tags": [
+      "minecraft:vibration_damper",
+      "minecraft:wool"
+    ],
     "toughnessValue": 0
   },
   "minecraft:zoglin_spawn_egg": {
@@ -23593,7 +24571,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:zombie_head": {
@@ -23618,7 +24598,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:zombie_nautilus_spawn_egg": {
@@ -23631,7 +24613,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:zombie_pigman_spawn_egg": {
@@ -23644,7 +24628,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:zombie_spawn_egg": {
@@ -23657,7 +24643,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   },
   "minecraft:zombie_villager_spawn_egg": {
@@ -23670,7 +24658,9 @@
     "isDamageable": false,
     "maxDamage": 0,
     "maxStackSize": 64,
-    "tags": ["minecraft:spawn_egg"],
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
     "toughnessValue": 0
   }
 }

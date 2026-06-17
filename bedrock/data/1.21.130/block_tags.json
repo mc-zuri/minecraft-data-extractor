@@ -1,6 +1,10 @@
 {
-  "minecraft:acacia": ["minecraft:acacia_log"],
-  "minecraft:birch": ["minecraft:birch_log"],
+  "minecraft:acacia": [
+    "minecraft:acacia_log"
+  ],
+  "minecraft:birch": [
+    "minecraft:birch_log"
+  ],
   "minecraft:crop": [
     "minecraft:pitcher_crop",
     "minecraft:potatoes",
@@ -10,7 +14,9 @@
     "minecraft:torchflower_crop",
     "minecraft:wheat"
   ],
-  "minecraft:dark_oak": ["minecraft:dark_oak_log"],
+  "minecraft:dark_oak": [
+    "minecraft:dark_oak_log"
+  ],
   "minecraft:diamond_pick_diggable": [
     "minecraft:raw_gold_block",
     "minecraft:obsidian",
@@ -77,7 +83,10 @@
     "minecraft:grass_block",
     "minecraft:grass_path"
   ],
-  "minecraft:gravel": ["minecraft:suspicious_gravel", "minecraft:gravel"],
+  "minecraft:gravel": [
+    "minecraft:suspicious_gravel",
+    "minecraft:gravel"
+  ],
   "minecraft:iron_pick_diggable": [
     "minecraft:raw_gold_block",
     "minecraft:gold_ore",
@@ -939,7 +948,9 @@
     "minecraft:copper_lantern",
     "minecraft:oxidized_copper_door"
   ],
-  "minecraft:is_shears_item_destructible": ["minecraft:web"],
+  "minecraft:is_shears_item_destructible": [
+    "minecraft:web"
+  ],
   "minecraft:is_shovel_item_destructible": [
     "minecraft:light_blue_concrete_powder",
     "minecraft:snow_layer",
@@ -978,8 +989,12 @@
     "minecraft:orange_concrete_powder",
     "minecraft:gravel"
   ],
-  "minecraft:is_sword_item_destructible": ["minecraft:web"],
-  "minecraft:jungle": ["minecraft:jungle_log"],
+  "minecraft:is_sword_item_destructible": [
+    "minecraft:web"
+  ],
+  "minecraft:jungle": [
+    "minecraft:jungle_log"
+  ],
   "minecraft:log": [
     "minecraft:jungle_log",
     "minecraft:oak_log",
@@ -1003,7 +1018,9 @@
     "minecraft:weathered_copper_bars",
     "minecraft:iron_block"
   ],
-  "minecraft:mob_spawner": ["minecraft:mob_spawner"],
+  "minecraft:mob_spawner": [
+    "minecraft:mob_spawner"
+  ],
   "minecraft:not_feature_replaceable": [
     "minecraft:waxed_weathered_copper_chest",
     "minecraft:birch_shelf",
@@ -1033,7 +1050,9 @@
     "minecraft:chest",
     "minecraft:trial_spawner"
   ],
-  "minecraft:oak": ["minecraft:oak_log"],
+  "minecraft:oak": [
+    "minecraft:oak_log"
+  ],
   "minecraft:one_way_collidable": [
     "minecraft:warped_door",
     "minecraft:fence_gate",
@@ -1122,8 +1141,12 @@
     "minecraft:suspicious_sand",
     "minecraft:sand"
   ],
-  "minecraft:snow": ["minecraft:snow_layer"],
-  "minecraft:spruce": ["minecraft:spruce_log"],
+  "minecraft:snow": [
+    "minecraft:snow_layer"
+  ],
+  "minecraft:spruce": [
+    "minecraft:spruce_log"
+  ],
   "minecraft:stone": [
     "minecraft:end_stone_brick_wall",
     "minecraft:granite",
@@ -1402,7 +1425,10 @@
     "minecraft:pale_oak_trapdoor",
     "minecraft:dark_oak_trapdoor"
   ],
-  "minecraft:water": ["minecraft:flowing_water", "minecraft:water"],
+  "minecraft:water": [
+    "minecraft:flowing_water",
+    "minecraft:water"
+  ],
   "minecraft:wood": [
     "minecraft:dark_oak_wood",
     "minecraft:birch_standing_sign",

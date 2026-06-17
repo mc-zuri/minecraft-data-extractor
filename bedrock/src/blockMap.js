@@ -147,8 +147,8 @@ class BlockMapper {
     return results
   }
 
-  async getBlockStatesGeyser() {
-    // let data = fs.readFileSync(d`./BedrockBlockPaletteArchive/1.21.80.27_beta.nbt`)
+  async getBlockStatesGeyser(version) {
+    // let data = fs.readFileSync(d`./BedrockBlockPaletteArchive/${version}.nbt`)
     // const results = [];
     // while (data.length > 0) {
     //   const { parsed, metadata } = await nbt.parse(data, "littleVarint");
@@ -164,7 +164,7 @@ class BlockMapper {
 
 
 
-    const data = fs.readFileSync(d`../../data/1.21.130/block_palette.nbt`)
+    const data = fs.readFileSync(d`../../data/`+ `${version}/block_palette.nbt`)
     const { parsed } = await nbt.parse(data)
     const results = []
     for (const block of parsed.value.blocks.value.value) {
@@ -182,7 +182,7 @@ class BlockMapper {
 
   }
 
-  async build(od) {
+  async build(od, version) {
     assert(od)
     console.log('writing to', od)
 
@@ -196,7 +196,7 @@ class BlockMapper {
     } catch (e) { console.log(e) }
 
     // Copy over blockstates
-    const states = await this.getBlockStatesGeyser()
+    const states = await this.getBlockStatesGeyser(version)
     fs.writeFileSync(od + '/blocks/BlockStates.json', JSON.stringify(states, null, '\t'))
     fs.writeFileSync(od + '/minecraft-data/blockStates.json', JSON.stringify(states, null, '\t'))
 
@@ -235,7 +235,7 @@ class BlockMapper {
 
 module.exports = async (version, path) => {
   let builder = new BlockMapper(version)
-  await builder.build(path)
+  await builder.build(path, version)
   console.log('✔ ok ->', path)
 }
 
