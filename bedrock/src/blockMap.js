@@ -39,7 +39,7 @@ class BlockMapper {
       for (var key in blocksJson.mappings) {
         let val = blocksJson.mappings[key]
         if (val.bedrock_state.bedrock_identifier.includes('birch_stairs')) {
-          console.log(key)
+          //console.log(key)
         }
 
 

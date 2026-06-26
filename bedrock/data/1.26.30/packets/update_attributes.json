@@ -1,0 +1,306 @@
+{
+  "runtime_entity_id": "10",
+  "attributes": [
+    {
+      "min": 0,
+      "max": 10,
+      "current": 10,
+      "default_min": 0,
+      "default_max": 10,
+      "default": 10,
+      "name": "minecraft:health",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 16,
+      "current": 0,
+      "default_min": 0,
+      "default_max": 16,
+      "default": 0,
+      "name": "minecraft:absorption",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 3.4028234663852886e+38,
+      "current": 0.25,
+      "default_min": 0,
+      "default_max": 3.4028234663852886e+38,
+      "default": 0.25,
+      "name": "minecraft:movement",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 3.4028234663852886e+38,
+      "current": 0.019999999552965164,
+      "default_min": 0,
+      "default_max": 3.4028234663852886e+38,
+      "default": 0.019999999552965164,
+      "name": "minecraft:underwater_movement",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 3.4028234663852886e+38,
+      "current": 0.019999999552965164,
+      "default_min": 0,
+      "default_max": 3.4028234663852886e+38,
+      "default": 0.019999999552965164,
+      "name": "minecraft:lava_movement",
+      "modifiers": []
+    },
+    {
+      "min": -1024,
+      "max": 1024,
+      "current": 0,
+      "default_min": -1024,
+      "default_max": 1024,
+      "default": 0,
+      "name": "minecraft:luck",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 256,
+      "current": 1,
+      "default_min": 0,
+      "default_max": 256,
+      "default": 1,
+      "name": "minecraft:friction_modifier",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 1,
+      "current": 0,
+      "default_min": 0,
+      "default_max": 1,
+      "default": 0,
+      "name": "minecraft:bounciness",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 256,
+      "current": 1,
+      "default_min": 0,
+      "default_max": 256,
+      "default": 1,
+      "name": "minecraft:air_drag_modifier",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 10,
+      "current": 10,
+      "default_min": 0,
+      "default_max": 10,
+      "default": 10,
+      "name": "minecraft:health",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 3.4028234663852886e+38,
+      "current": 0.25,
+      "default_min": 0,
+      "default_max": 3.4028234663852886e+38,
+      "default": 0.25,
+      "name": "minecraft:movement",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 3.4028234663852886e+38,
+      "current": 0.019999999552965164,
+      "default_min": 0,
+      "default_max": 3.4028234663852886e+38,
+      "default": 0.019999999552965164,
+      "name": "minecraft:underwater_movement",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 3.4028234663852886e+38,
+      "current": 0.019999999552965164,
+      "default_min": 0,
+      "default_max": 3.4028234663852886e+38,
+      "default": 0.019999999552965164,
+      "name": "minecraft:lava_movement",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 16,
+      "current": 0,
+      "default_min": 0,
+      "default_max": 16,
+      "default": 0,
+      "name": "minecraft:absorption",
+      "modifiers": []
+    },
+    {
+      "min": -1024,
+      "max": 1024,
+      "current": 0,
+      "default_min": -1024,
+      "default_max": 1024,
+      "default": 0,
+      "name": "minecraft:luck",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 256,
+      "current": 1,
+      "default_min": 0,
+      "default_max": 256,
+      "default": 1,
+      "name": "minecraft:friction_modifier",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 1,
+      "current": 0,
+      "default_min": 0,
+      "default_max": 1,
+      "default": 0,
+      "name": "minecraft:bounciness",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 256,
+      "current": 1,
+      "default_min": 0,
+      "default_max": 256,
+      "default": 1,
+      "name": "minecraft:air_drag_modifier",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 10,
+      "current": 10,
+      "default_min": 0,
+      "default_max": 10,
+      "default": 10,
+      "name": "minecraft:health",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 3.4028234663852886e+38,
+      "current": 0.25,
+      "default_min": 0,
+      "default_max": 3.4028234663852886e+38,
+      "default": 0.25,
+      "name": "minecraft:movement",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 3.4028234663852886e+38,
+      "current": 0.019999999552965164,
+      "default_min": 0,
+      "default_max": 3.4028234663852886e+38,
+      "default": 0.019999999552965164,
+      "name": "minecraft:underwater_movement",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 3.4028234663852886e+38,
+      "current": 0.019999999552965164,
+      "default_min": 0,
+      "default_max": 3.4028234663852886e+38,
+      "default": 0.019999999552965164,
+      "name": "minecraft:lava_movement",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 16,
+      "current": 0,
+      "default_min": 0,
+      "default_max": 16,
+      "default": 0,
+      "name": "minecraft:absorption",
+      "modifiers": []
+    },
+    {
+      "min": -1024,
+      "max": 1024,
+      "current": 0,
+      "default_min": -1024,
+      "default_max": 1024,
+      "default": 0,
+      "name": "minecraft:luck",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 256,
+      "current": 1,
+      "default_min": 0,
+      "default_max": 256,
+      "default": 1,
+      "name": "minecraft:friction_modifier",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 1,
+      "current": 0,
+      "default_min": 0,
+      "default_max": 1,
+      "default": 0,
+      "name": "minecraft:bounciness",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 256,
+      "current": 1,
+      "default_min": 0,
+      "default_max": 256,
+      "default": 1,
+      "name": "minecraft:air_drag_modifier",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 10,
+      "current": 10,
+      "default_min": 0,
+      "default_max": 10,
+      "default": 10,
+      "name": "minecraft:health",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 10,
+      "current": 10,
+      "default_min": 0,
+      "default_max": 10,
+      "default": 10,
+      "name": "minecraft:health",
+      "modifiers": []
+    },
+    {
+      "min": 0,
+      "max": 3.4028234663852886e+38,
+      "current": 0.25,
+      "default_min": 0,
+      "default_max": 3.4028234663852886e+38,
+      "default": 0.25,
+      "name": "minecraft:movement",
+      "modifiers": []
+    }
+  ],
+  "tick": "0"
+}

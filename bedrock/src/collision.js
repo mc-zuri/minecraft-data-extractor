@@ -52,14 +52,14 @@ function customJSONStringify(obj, options = {}) {
       const keys = Object.keys(value)
       if (keys.length === 0) return '{}'
 
-      // DynamicShapes - format with each type on separate line, but arrays inline
-      if (inline.dynamicShapes && key === 'dynamicShapes') {
-        const entries = keys.map(k => {
-          const arrayStr = JSON.stringify(value[k]).replace(/,/g, ', ')  // Add space after commas
-          return indent.repeat(depth + 1) + JSON.stringify(k) + ': ' + arrayStr
-        })
-        return '{\n' + entries.join(',\n') + '\n' + indent.repeat(depth) + '}'
-      }
+      // // DynamicShapes - format with each type on separate line, but arrays inline
+      // if (inline.dynamicShapes && key === 'dynamicShapes') {
+      //   const entries = keys.map(k => {
+      //     const arrayStr = JSON.stringify(value[k]).replace(/,/g, ', ')  // Add space after commas
+      //     return indent.repeat(depth + 1) + JSON.stringify(k) + ': ' + arrayStr
+      //   })
+      //   return '{\n' + entries.join(',\n') + '\n' + indent.repeat(depth) + '}'
+      // }
 
       // Small objects (like shapeType) - keep inline
       const objStr = JSON.stringify(value).replace(/:/g, ': ').replace(/,/g, ', ')
@@ -305,28 +305,27 @@ async function createCollisionDataV3(version, outputPath, dataPath) {
   const blocksJSON = require(outputPath + '/blocks.json')
   const blockStatesJSON = require(dataPath + '/block_states.json')
 
-  // Try to load dynamic collision shapes from plugin output
-  let dynamicShapes = null
-  const dynamicShapesPaths = [
-    outputPath + '/dynamic_collision_shapes.json',
-    dataPath + '/dynamic_collision_shapes.json'
-  ]
-  for (const p of dynamicShapesPaths) {
-    if (fs.existsSync(p)) {
-      dynamicShapes = JSON.parse(fs.readFileSync(p, 'utf-8'))
-      console.log('Loaded dynamic collision shapes from:', p)
-      break
-    }
-  }
-  if (!dynamicShapes) {
-    console.warn('Warning: dynamic_collision_shapes.json not found. Run /collisiondynamic in Endstone server first.')
-  }
+  // // Try to load dynamic collision shapes from plugin output
+  // let dynamicShapes = null
+  // const dynamicShapesPaths = [
+  //   outputPath + '/dynamic_collision_shapes.json',
+  //   dataPath + '/dynamic_collision_shapes.json'
+  // ]
+  // for (const p of dynamicShapesPaths) {
+  //   if (fs.existsSync(p)) {
+  //     dynamicShapes = JSON.parse(fs.readFileSync(p, 'utf-8'))
+  //     console.log('Loaded dynamic collision shapes from:', p)
+  //     break
+  //   }
+  // }
+  // if (!dynamicShapes) {
+  //   console.warn('Warning: dynamic_collision_shapes.json not found. Run /collisiondynamic in Endstone server first.')
+  // }
 
   const collisions = {
     blocks: {},
     // visualBlocks: {},
-    shapes: {},
-    dynamicShapes: {}
+    shapes: {}
   }
 
   // Build a map from blockStateHash to collisionShape and outlineShape
@@ -340,7 +339,6 @@ async function createCollisionDataV3(version, outputPath, dataPath) {
   // Normalize shape to array of boxes format
   function normalizeShape(shape) {
     if (!shape || shape.length === 0) {
-      // Empty shape -> [[0, 0, 0, 0, 0, 0]]
       return [[0, 0, 0, 0, 0, 0]]
     }
     // Check if it's already an array of boxes or a single box
@@ -388,10 +386,10 @@ async function createCollisionDataV3(version, outputPath, dataPath) {
     const blockName = strip(bedrockBlock.name)
     const shapeType = getShapeType(blockName)
 
-    // Skip dynamic blocks in this pass
-    if (shapeType && dynamicShapes && dynamicShapes[shapeType]) {
-      //continue
-    }
+    // // Skip dynamic blocks in this pass
+    // if (shapeType && dynamicShapes && dynamicShapes[shapeType]) {
+    //   //continue
+    // }
 
     // Static block - get shapes from block_states.json
     const stateData = blockNameToStateHashes[blockName]
@@ -415,35 +413,36 @@ async function createCollisionDataV3(version, outputPath, dataPath) {
     collisions.blocks[blockName] = collisionIndices
     //collisions.visualBlocks[blockName] = outlineIndices
   }
+  collisions.shapes[0] = [];
 
-  // SECOND: Add dynamic shapes at the end (after all static shapes)
-  // Dynamic shapes get dedicated indices and are NOT deduplicated with static shapes
-  if (dynamicShapes) {
-    for (const type of ['fence', 'pane', 'stairs', 'chorus']) {
-      if (dynamicShapes[type]) {
-        const shapeIndices = []
-        for (const [idx, shape] of Object.entries(dynamicShapes[type])) {
-          // Always create a new index for dynamic shapes (no deduplication)
-          const shapeIndex = nextShapeIndex++
-          collisions.shapes[shapeIndex] = shape
-          shapeIndices[parseInt(idx)] = shapeIndex
-        }
-        collisions.dynamicShapes[type] = shapeIndices
-      }
-    }
-  }
+  // // SECOND: Add dynamic shapes at the end (after all static shapes)
+  // // Dynamic shapes get dedicated indices and are NOT deduplicated with static shapes
+  // if (dynamicShapes) {
+  //   for (const type of ['fence', 'pane', 'stairs', 'chorus']) {
+  //     if (dynamicShapes[type]) {
+  //       const shapeIndices = []
+  //       for (const [idx, shape] of Object.entries(dynamicShapes[type])) {
+  //         // Always create a new index for dynamic shapes (no deduplication)
+  //         const shapeIndex = nextShapeIndex++
+  //         collisions.shapes[shapeIndex] = shape
+  //         shapeIndices[parseInt(idx)] = shapeIndex
+  //       }
+  //       collisions.dynamicShapes[type] = shapeIndices
+  //     }
+  //   }
+  // }
 
   // THIRD: Process dynamic blocks and assign them shapeType references
-  for (const bedrockBlockIndex in blocksJSON) {
-    const bedrockBlock = blocksJSON[bedrockBlockIndex]
-    const blockName = strip(bedrockBlock.name)
-    const shapeType = getShapeType(blockName)
+  // for (const bedrockBlockIndex in blocksJSON) {
+  //   const bedrockBlock = blocksJSON[bedrockBlockIndex]
+  //   const blockName = strip(bedrockBlock.name)
+  //   const shapeType = getShapeType(blockName)
 
-    // if (shapeType && dynamicShapes && dynamicShapes[shapeType]) {
-    //   // Dynamic block - reference the shapeType instead of storing shapes per state
-    //   collisions.blocks[blockName] = { shapeType }
-    // }
-  }
+  //   // if (shapeType && dynamicShapes && dynamicShapes[shapeType]) {
+  //   //   // Dynamic block - reference the shapeType instead of storing shapes per state
+  //   //   collisions.blocks[blockName] = { shapeType }
+  //   // }
+  // }
 
   // Use custom serializer with configurable inline rules
   const serialized = customJSONStringify(collisions, {
@@ -451,7 +450,7 @@ async function createCollisionDataV3(version, outputPath, dataPath) {
     inline: {
       blockArrays: true,        // Keep block shape index arrays inline
       shapeArrays: true,         // Keep shape coordinate arrays inline
-      dynamicShapes: true,       // Keep dynamicShapes object inline
+      //dynamicShapes: true,       // Keep dynamicShapes object inline
       maxLength: 10000           // Max length for inline arrays
     }
   })
@@ -470,12 +469,12 @@ async function generateCollisionData(version, outputPath, dataPath) {
   }
 
   const blockStatesPath = dataPath + '/block_states.json'
-  const dynamicShapesPaths = [
-    outputPath + '/dynamic_collision_shapes.json',
-    dataPath + '/dynamic_collision_shapes.json'
-  ]
+  // const dynamicShapesPaths = [
+  //   outputPath + '/dynamic_collision_shapes.json',
+  //   dataPath + '/dynamic_collision_shapes.json'
+  // ]
   const collisionsNbtPath = './src/deps/mappings-generator/mappings/collisions.nbt'
-  const hasDynamicShapes = dynamicShapesPaths.some(p => fs.existsSync(p))
+  //const hasDynamicShapes = dynamicShapesPaths.some(p => fs.existsSync(p))
   const hasBlockStates = fs.existsSync(blockStatesPath)
 
   if (hasBlockStates) {

@@ -83,6 +83,8 @@ module.exports = async (version, outputPath, dataDir, javaVersion) => {
       const mcdItem = javaItems.find(e => e.name === strip(mapped?.[0]?.[1]))
       const entry = ret.push({
         id: bedrockExIx++,
+        displayName: undefined,
+        name: undefined,
         stackSize: 1,
         ...mcdItem,
         name: strip(name),

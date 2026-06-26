@@ -1,0 +1,49 @@
+{
+  "payload_type": "initialize_registry",
+  "clocks": [
+    {
+      "id": "7194480507151251734",
+      "name": "minecraft:overworld",
+      "time": 36929,
+      "paused": false,
+      "time_markers": [
+        {
+          "id": "2625810911898139949",
+          "name": "minecraft:sunrise",
+          "time": 23000,
+          "period": 24000
+        },
+        {
+          "id": "4918950784056990566",
+          "name": "minecraft:night",
+          "time": 13000,
+          "period": 24000
+        },
+        {
+          "id": "6827470627776846754",
+          "name": "minecraft:noon",
+          "time": 6000,
+          "period": 24000
+        },
+        {
+          "id": "11262090321339182944",
+          "name": "minecraft:midnight",
+          "time": 18000,
+          "period": 24000
+        },
+        {
+          "id": "13638948813458750018",
+          "name": "minecraft:day",
+          "time": 1000,
+          "period": 24000
+        },
+        {
+          "id": "16664792990819124822",
+          "name": "minecraft:sunset",
+          "time": 12000,
+          "period": 24000
+        }
+      ]
+    }
+  ]
+}

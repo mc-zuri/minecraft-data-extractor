@@ -17,6 +17,7 @@ async function run(version, javaVersion, outputDir = path.resolve(__dirname, '..
   //await require('./entities')(version, outputDir, dataDir)
 }
 
-run('1.26.20', '1.26.1')
-run('1.26.10', '1.26.1')
-run('1.26.0', '1.26.1')
+run('1.26.30', '1.26.2')
+// //run('1.26.20', '1.26.2')
+// run('1.26.10', '1.26.1')
+// run('1.26.0', '1.26.1')

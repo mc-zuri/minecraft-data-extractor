@@ -1,0 +1,28 @@
+{
+  "window_id": "offhand",
+  "input": [
+    {
+      "network_id": 0,
+      "count": 0,
+      "metadata": 0,
+      "block_runtime_id": 0,
+      "extra_data": {
+        "type": "Buffer",
+        "data": []
+      }
+    }
+  ],
+  "container": {
+    "container_id": "anvil_input"
+  },
+  "storage_item": {
+    "network_id": 0,
+    "count": 0,
+    "metadata": 0,
+    "block_runtime_id": 0,
+    "extra_data": {
+      "type": "Buffer",
+      "data": []
+    }
+  }
+}
